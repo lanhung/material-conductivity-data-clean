@@ -1,0 +1,14 @@
+pandas
+openpyxl
+pymysql
+numpy
+tqdm
+typing-extensions
+langgraph
+langchain-openai
+langchain-core
+pydantic
+mysql-connector-python
+SQLAlchemy
+python-dotenv
+
