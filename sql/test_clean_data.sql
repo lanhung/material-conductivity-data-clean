@@ -137,13 +137,55 @@ WHERE
     -- 筛选出包含 '/' 的行
     processing_route LIKE '%/%';
 
--- 清洗dopant_valence
--- 目的：预览将 dopant_valence (掺杂价态) 中的中文 "或" 替换为 "/"
+-- 清洗 dopant_valence
+SELECT
+    sample_id,
+    dopant_element,
+    dopant_valence AS original_valence,
+
+    -- 显示元素个数
+    (CHAR_LENGTH(dopant_element) - CHAR_LENGTH(REPLACE(dopant_element, '/', '')) + 1) AS n_elem,
+    -- 显示价态个数
+    (CHAR_LENGTH(dopant_valence) - CHAR_LENGTH(REPLACE(dopant_valence, '/', '')) + 1) AS n_val,
+
+    -- 【核心修复逻辑预览】
+    CASE
+        -- 情况1：价态少于元素 -> 补全
+        WHEN (CHAR_LENGTH(dopant_valence) - CHAR_LENGTH(REPLACE(dopant_valence, '/', '')) + 1) < (CHAR_LENGTH(dopant_element) - CHAR_LENGTH(REPLACE(dopant_element, '/', '')) + 1)
+            THEN CONCAT(
+                dopant_valence,
+                REPEAT(
+                        CONCAT('/', SUBSTRING_INDEX(dopant_valence, '/', -1)),
+                        (CHAR_LENGTH(dopant_element) - CHAR_LENGTH(REPLACE(dopant_element, '/', '')) + 1) - (CHAR_LENGTH(dopant_valence) - CHAR_LENGTH(REPLACE(dopant_valence, '/', '')) + 1)
+                )
+                 )
+
+        -- 情况2：价态多于元素 -> 截断
+        WHEN (CHAR_LENGTH(dopant_valence) - CHAR_LENGTH(REPLACE(dopant_valence, '/', '')) + 1) > (CHAR_LENGTH(dopant_element) - CHAR_LENGTH(REPLACE(dopant_element, '/', '')) + 1)
+            THEN SUBSTRING_INDEX(
+                dopant_valence,
+                '/',
+                (CHAR_LENGTH(dopant_element) - CHAR_LENGTH(REPLACE(dopant_element, '/', '')) + 1)
+                 )
+
+        ELSE dopant_valence -- 正常情况
+        END AS fixed_valence
+
+FROM
+    raw_conductivity_samples
+WHERE
+    dopant_valence IS NOT NULL AND dopant_valence != ''
+HAVING
+    -- 只显示有问题的行（数量不相等）
+    n_val != n_elem;
+
+
+-- 目的：预览保留 "或" 字前面的内容，丢弃 "或" 及之后的部分
 SELECT
     sample_id,
     dopant_valence AS 原数据,
-    -- 逻辑：将 '或' 替换为 '/' (例如 '3或4' -> '3/4')
-    REPLACE(dopant_valence, '或', '/') AS 清洗后预览
+    -- 逻辑：取第一个 '或' 之前的所有字符 (例如 '3或4' -> '3')
+    SUBSTRING_INDEX(dopant_valence, '或', 1) AS 清洗后预览
 FROM
     raw_conductivity_samples
 WHERE
