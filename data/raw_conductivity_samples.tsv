@@ -1,0 +1,2011 @@
+sample_id	reference	material_source_and_purity	synthesis_method	processing_route	sintering_temperature	sintering_duration	dopant_element	dopant_ionic_radius	dopant_valence	dopant_molar_fraction	crystal_phase	operating_temperature	conductivity
+1	10.1016/j.ssi.2006.09.003	YSZ，商品化材料(Toyo Soda)，>99%	商品化	干压成型	1550	2h	Y	101.9	+3	0.085	c	950	0.016
+2	10.1016/j.ssi.2006.09.003	YSZ，商品化材料(Kerafol GmbH)	商品化	干压成型	1350	2h	Y	101.9	+3	0.1	c	950	0.014
+3	10.1016/j.ijhydene.2015.09.124	Sc2O3, 商品化材料(Adventech, Korea)，6.8 mol%	商品化	射频溅射	/	/	Sc	87	+3	0.067	c	500	0.00024
+4	10.1016/S0955-2219(02)00421-1	YSZ，商品化材料(Praxair, USA)	商品化	放电等离子烧结	1500	3min	Y	101.9	+3	0.03	t	1000	0.05
+5	10.3139/146.111204	Dy2O3，商品化材料(Alfa Aesar)	固相合成	干压成型	1100	6h	Dy	102.7	+3	0.1	c	700	0.00043
+6	10.3139/146.111204	Dy2O3，商品化材料(Alfa Aesar)，Bi2O3，商品化材料(99.9%, SRL)	固相合成	干压成型	1100	6h	Dy/Bi	102.7/96	+3	10%/2%	c	700	0.0035
+7	10.1016/j.mtcomm.2022.103546	YSZ，商品化材料	商品化	干压成型	1400	10h	Y	101.9	+3	0.08	c	800	0.12
+8	10.1016/j.matchemphys.2018.10.019	YSZ，自制；Fe(NO3)3，Zn(NO3)2	固相合成	干压成型	1550	5h	Y/Fe/Zn	101.9/64.5/74	+3/+3/+2	5%/2%/1%	c/t/m	300	7.398×10-6 
+9	10.3390/app11135939	 YSZ，商品化材料（Innovnano, Portugal, d50 = 500 nm）；Pr6O11，商品化材料(Alfa Aesar, 99.5% purity)	固相合成	干压成型	1450	1h	Y/Pr	101.9/112.6	+3/+3	5%/5%	c/o	700	0.00684
+10	10.3390/app11135939	 YSZ，商品化材料（Innovnano, Portugal, d50 = 500 nm）；Pr6O11，商品化材料(Alfa Aesar, 99.5% purity)	固相合成	干压成型	1450	4h	Y/Pr	101.9/112.6	+3/+3	5%/10%	c/o	700	0.00483
+11	10.3390/app11135939	 YSZ，商品化材料（Innovnano, Portugal, d50 = 500 nm）；Pr6O11，商品化材料(Alfa Aesar, 99.5% purity)	固相合成	干压成型	1450	9h	Y/Pr	101.9/112.6	+3/+3	5%/15%	c/o	700	0.00302
+12	10.3390/app11135939	 YSZ，商品化材料（Innovnano, Portugal, d50 = 500 nm）；Pr6O11，商品化材料(Alfa Aesar, 99.5% purity)	固相合成	干压成型	1500	1h	Y/Pr	101.9/112.6	+3/+3	5%/10%	c/o	700	0.00469
+13	10.3390/app11135939	 YSZ，商品化材料（Innovnano, Portugal, d50 = 500 nm）；Pr6O11，商品化材料(Alfa Aesar, 99.5% purity)	固相合成	干压成型	1500	4h	Y/Pr	101.9/112.6	+3/+3	5%/15%	c/o	700	0.00299
+14	10.3390/app11135939	 YSZ，商品化材料（Innovnano, Portugal, d50 = 500 nm）；Pr6O11，商品化材料(Alfa Aesar, 99.5% purity)	固相合成	干压成型	1500	9h	Y/Pr	101.9/112.6	+3/+3	5%/5%	c	700	0.00719
+15	10.3390/app11135939	 YSZ，商品化材料（Innovnano, Portugal, d50 = 500 nm）；Pr6O11，商品化材料(Alfa Aesar, 99.5% purity)	固相合成	干压成型	1550	1h	Y/Pr	101.9/112.6	+3/+3	5%/15%	c/o	700	0.00276
+16	10.3390/app11135939	 YSZ，商品化材料（Innovnano, Portugal, d50 = 500 nm）；Pr6O11，商品化材料(Alfa Aesar, 99.5% purity)	固相合成	干压成型	1550	4h	Y/Pr	101.9/112.6	+3/+3	5%/5%	c	700	0.00426
+17	10.3390/app11135939	 YSZ，商品化材料（Innovnano, Portugal, d50 = 500 nm）；Pr6O11，商品化材料(Alfa Aesar, 99.5% purity)	固相合成	干压成型	1550	9h	Y/Pr	101.9/112.6	+3/+3	5%/10%	c	700	0.00473
+18	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Lu2O3,商业化材料(99.99%, Alfa Aesar, MA, USA) 	固相合成	干压成型	1600	6h	Lu	97.7	+3	0.08	c/t	950	0.226
+19	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)； Sc2O3，商业化材料(99.99%, Alfa Aesar, MA, USA)	固相合成	干压成型	1600	6h	Sc	87	+3	0.08	c/t	950	0.193
+20	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Y2O3，商业化材料(99.99%, Aldrich, MO, USA)	固相合成	干压成型	1600	6h	Y	101.9	+3	0.08	c/t	950	0.014
+21	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Lu2O3,商业化材料(99.99%, Alfa Aesar, MA, USA) 	固相合成	干压成型	1600	6h	Lu	97.7	+3	0.08	c/t	900	0.153
+22	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)； Sc2O3，商业化材料(99.99%, Alfa Aesar, MA, USA)	固相合成	干压成型	1600	6h	Sc	87	+3	0.08	c/t	900	0.121
+23	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Y2O3，商业化材料(99.99%, Aldrich, MO, USA)	固相合成	干压成型	1600	6h	Y	101.9	+3	0.08	c/t	900	0.01005
+24	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Lu2O3,商业化材料(99.99%, Alfa Aesar, MA, USA) 	固相合成	干压成型	1600	6h	Lu	97.7	+3	0.08	c/t	850	0.955
+25	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)； Sc2O3，商业化材料(99.99%, Alfa Aesar, MA, USA)	固相合成	干压成型	1600	6h	Sc	87	+3	0.08	c/t	850	0.078
+26	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Y2O3，商业化材料(99.99%, Aldrich, MO, USA)	固相合成	干压成型	1600	6h	Y	101.9	+3	0.08	c/t	850	0.0024
+27	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Lu2O3,商业化材料(99.99%, Alfa Aesar, MA, USA) 	固相合成	干压成型	1600	6h	Lu	97.7	+3	0.08	c/t	800	0.572
+28	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)； Sc2O3，商业化材料(99.99%, Alfa Aesar, MA, USA)	固相合成	干压成型	1600	6h	Sc	87	+3	0.08	c/t	800	0.553
+29	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Y2O3，商业化材料(99.99%, Aldrich, MO, USA)	固相合成	干压成型	1600	6h	Y	101.9	+3	0.08	c/t	800	0.0009
+30	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Lu2O3,商业化材料(99.99%, Alfa Aesar, MA, USA) 	固相合成	干压成型	1600	6h	Lu	97.7	+3	0.08	c/t	750	0.038
+31	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)； Sc2O3，商业化材料(99.99%, Alfa Aesar, MA, USA)	固相合成	干压成型	1600	6h	Sc	87	+3	0.08	c/t	750	0.04
+32	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Y2O3，商业化材料(99.99%, Aldrich, MO, USA)	固相合成	干压成型	1600	6h	Y	101.9	+3	0.08	c/t	750	0.0003
+33	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Lu2O3,商业化材料(99.99%, Alfa Aesar, MA, USA) 	固相合成	干压成型	1600	6h	Lu	97.7	+3	0.08	c/t	700	0.0158
+34	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)； Sc2O3，商业化材料(99.99%, Alfa Aesar, MA, USA)	固相合成	干压成型	1600	6h	Sc	87	+3	0.08	c/t	700	0.0192
+35	10.1016/j.ceramint.2021.03.158	ZrO2，商业化材料(99.57 wt% with 1.91 wt% of HfO2, Z-Tech, NH, USA)；Y2O3，商业化材料(99.99%, Aldrich, MO, USA)	固相合成	干压成型	1600	6h	Y	101.9	+3	0.08	c/t	700	0.0002
+36	10.1016/j.ijhydene.2020.08.085	Sc0.1Ce0.005Gd0.005Zr0.89，商品化材料，Kceracell, Republic of Korea；Bi2O3，商业化材料(Sigma Aldrich)	固相合成	干压成型	1350	4h	Bi/Sc/Ce/Gd	96/87/105.3/97	+3/+3/+4/+3	2%/10%/0.5%/0.5%	c/β	800	0.0023
+37	10.3390/cryst12050620	"ZrO2，商业化材料 (SCRC, 2–4μm,purity: >99%)；MnO，商业化材料(Alfa Aesar, 2–4 
+μm, purity: >99.5%)"	固相合成	干压成型	1400	12h	Mn	83	+2	0.25	c	600	0.0144
+38	10.3390/cryst12050620	"ZrO2，商业化材料 (SCRC, 2–4μm,purity: >99%)；MnO，商业化材料(Alfa Aesar, 2–4 
+μm, purity: >99.5%)"	固相合成	干压成型	1400	12h	Mn	83	+2	0.25	c	1000	0.182
+39	10.2109/jcersj2.15297	硝酸氧锆、硝酸钇、硝酸铋	共沉淀法	干压成型	1300	5min	Y	101.9	+3	0.085	c	450	2.4679×10-5
+40	10.2109/jcersj2.15297	硝酸氧锆、硝酸钇、硝酸铋	共沉淀法	干压成型	1300	30min	Y	101.9	+3	0.085	c	450	2.4641×10-5
+41	10.2109/jcersj2.15297	硝酸氧锆、硝酸钇、硝酸铋	共沉淀法	干压成型	1300	4h	Y	101.9	+3	0.085	c	450	2.4666×10-5
+42	10.2109/jcersj2.15297	硝酸氧锆、硝酸钇、硝酸铋	共沉淀法	干压成型	1300	5min	Y/Bi	101.9/96	+3/+3	8%/4%	c/β	450	3.4623×10-5
+43	10.2109/jcersj2.15297	硝酸氧锆、硝酸钇、硝酸铋	共沉淀法	干压成型	1300	30min	Y/Bi	101.9/96	+3/+3	8%/4%	c	450	1.616×10-5
+44	10.2109/jcersj2.15297	硝酸氧锆、硝酸钇、硝酸铋	共沉淀法	干压成型	1300	4h	Y/Bi	101.9/96	+3/+3	8%/4%	c	450	2.9005×10-5
+45	10.1016/j.ssi.2004.02.007	"Sc2O3，商业化材料(StanfordMaterial,99.99%purity)；ZrO2,商业化材料(Fluka, 99%purity);
+Y2O3,商业化材料(Alfa Aesar, 99.9%purity)."	固相合成	干压成型	1600	16h	Y/Sc	101.9/87	+3/+3	1%/10%	c	800	0.0518
+46	10.1016/j.ssi.2004.02.007	"Sc2O3，商业化材料(StanfordMaterial,99.99%purity)；ZrO2,商业化材料(Fluka, 99%purity);
+Y2O3,商业化材料(Alfa Aesar, 99.9%purity)."	固相合成	干压成型	1600	16h	Y/Sc	101.9/87	+3/+3	2%/9%	c	800	0.0589
+47	10.1016/j.ssi.2004.02.007	"Sc2O3，商业化材料(StanfordMaterial,99.99%purity)；ZrO2,商业化材料(Fluka, 99%purity);
+Y2O3,商业化材料(Alfa Aesar, 99.9%purity)."	固相合成	干压成型	1600	16h	Y/Sc	101.9/87	+3/+3	3%/8%	c	800	0.0352
+48	10.1016/j.ssi.2004.02.007	Sc2O3，商业化材料(StanfordMaterial,99.99%purity)；ZrO2,商业化材料(Fluka, 99%purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c/r	800	0.0433
+49	10.1016/j.ssi.2004.02.007	"ZrO2,商业化材料(Fluka, 99%purity);
+Y2O3,商业化材料(Alfa Aesar, 99.9%purity)."	固相合成	干压成型	1600	16h	Y	101.9	+3	0.11	c	800	0.014
+50	10.1515/amm-2015-0248	硝酸锆、硝酸钇（sigma-aldrich）	溶胶凝胶法	干压成型	1200	2h	Y	101.9	+3/+3	0.03	/	500	5.2884×10-6
+51	10.1515/amm-2015-0248	硝酸锆、硝酸钇、硝酸钆（sigma-aldrich）	溶胶凝胶法	干压成型	1200	2h	Y/Gd	101.9/97	+3/+3	3%/0.25%	/	500	1.5073×10-4
+52	10.1515/amm-2015-0248	硝酸锆、硝酸钇、硝酸钆（sigma-aldrich）	溶胶凝胶法	干压成型	1200	2h	Y/Gd	101.9/97	+3/+3	3%/0.5%	/	500	4.108×10-5
+53	10.1515/amm-2015-0248	硝酸锆、硝酸钇、硝酸钆（sigma-aldrich）	溶胶凝胶法	干压成型	1200	2h	Y/Gd	101.9/97	+3/+3	3%/1%	/	500	7.4852×10-5
+54	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb	101.9/98.5	+3/+3	5%/2.5%	c	1000	0.128
+55	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.89%/2.44%/0.47%	c	1000	0.15
+56	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.88%/2.44%/0.98%	c	1000	0.18
+57	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.75%/2.38%/2.38%	c	1000	0.162
+58	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.56%/2.29%/4.56%	c	1000	0.152
+59	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.41%/2.21%/5.88%	c	1000	0.102
+60	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb	101.9/98.5	+3/+3	5%/2.5%	c	950	0.091
+61	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.89%/2.44%/0.47%	c	950	0.121
+62	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.88%/2.44%/0.98%	c	950	0.142
+63	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.75%/2.38%/2.38%	c	950	0.129
+64	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.56%/2.29%/4.56%	c	950	0.097
+65	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.41%/2.21%/5.88%	c	950	0.068
+66	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb	101.9/98.5	+3/+3	5%/2.5%	c	900	0.064
+67	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.89%/2.44%/0.47%	c	900	0.079
+68	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.88%/2.44%/0.98%	c	900	0.098
+69	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.75%/2.38%/2.38%	c	900	0.092
+70	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.56%/2.29%/4.56%	c	900	0.069
+71	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ Sc2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	4.41%/2.21%/5.88%	c	900	0.042
+72	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb	101.9/98.5	+3/+3	5%/2.5%	c	1000	0.129
+73	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.89%/2.44%/0.47%	c	1000	0.148
+74	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.88%/2.44%/0.98%	c	1000	0.16
+75	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.75%/2.38%/2.38%	c	1000	0.104
+76	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.56%/2.29%/4.56%	c	1000	0.057
+77	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.41%/2.21%/5.88%	c	1000	0.036
+78	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb	101.9/98.5	+3/+3	5%/2.5%	c	950	0.091
+79	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.89%/2.44%/0.47%	c	950	0.123
+80	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.88%/2.44%/0.98%	c	950	0.134
+81	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.75%/2.38%/2.38%	c	950	0.068
+82	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.56%/2.29%/4.56%	c	950	0.039
+83	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.41%/2.21%/5.88%	c	950	0.024
+84	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+ GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb	101.9/98.5	+3/+3	5%/2.5%	c	900	0.064
+85	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.89%/2.44%/0.47%	c	900	0.088
+86	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.88%/2.44%/0.98%	c	900	0.092
+87	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.75%/2.38%/2.38%	c	900	0.052
+88	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.56%/2.29%/4.56%	c	900	0.025
+89	10.1016/j.msea.2006.12.072	"ZrO2,
+Farmeiya (Jiujiang) Advanced Material Co., Ltd., China, 99.9%; Y2O3, Yb2O3,
+Dy2O3, GeoQuin Nano Rare Earth Co., Ltd., China, 99%"	固相合成	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	4.41%/2.21%/5.88%	c	900	0.013
+90	10.2109/jcersj2.123.250	YSZ靶材	商品化	射频溅射	550	/	Y	101.9	+3	0.08	c	560	0.078
+91	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Sc2O3	甘氨酸法	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	5.35%/2.67%/1.07%	c	1000	0.15
+92	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Sc2O3,Al(NO3)·9H2O	甘氨酸法	干压成型	1600	4h	Y/Yb/Sc/Al	101.9/98.5/87/54	+3/+3/+3/+3	5.32%/2.66%/1.06%/0.28%	c	1000	0.14
+93	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Sc2O3,CaCO3	甘氨酸法	干压成型	1600	4h	Y/Yb/Sc/Ca	101.9/98.5/87/112	+3/+3/+3/+2	5.23%/2.61%/1.05%/2.13%	c	1000	0.08
+94	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Sc2O3,Al(NO3)·9H2O,CaCO3	甘氨酸法	干压成型	1600	4h	Y/Yb/Sc/Al/Ca	101.9/98.5/87/54/112	+3/+3/+3/+3/+2	5.22%/2.61%/1.04%/0.27/2.13%	c	1000	0.119
+95	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Dy(NO3)·6H2O	甘氨酸法	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	5.39%/2.69%/0.27%	c	1000	0.15
+96	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Dy(NO3)·6H2O,Al(NO3)·9H2O	甘氨酸法	干压成型	1600	4h	Y/Yb/Dy/Al	101.9/98.5/102.7/54	+3/+3/+3/+3	5.37%/2.68%/0.27%/0.28%	c	1000	0.14
+97	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Dy(NO3)·6H2O,CaCO3	甘氨酸法	干压成型	1600	4h	Y/Yb/Dy/Ca	101.9/98.5/102.7/112	+3/+3/+3/+2	5.27%/2.63%/0.26%/2.15%	c	1000	0.078
+98	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Dy(NO3)·6H2O,Al(NO3)·9H2O,CaCO3	甘氨酸法	干压成型	1600	4h	Y/Yb/Dy/Al/Ca	101.9/98.5/102.7/54/112	+3/+3/+3/+3/+2	5.26%/2.63%/0.27%/0.27%/2.14%	c	1000	0.113
+99	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Sc2O3	甘氨酸法	干压成型	1600	4h	Y/Yb/Sc	101.9/98.5/87	+3/+3/+3	5.35%/2.67%/1.07%	c	800	0.04
+100	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Sc2O3,Al(NO3)·9H2O	甘氨酸法	干压成型	1600	4h	Y/Yb/Sc/Al	101.9/98.5/87/54	+3/+3/+3/+3	5.32%/2.66%/1.06%/0.28%	c	800	0.033
+101	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Sc2O3,CaCO3	甘氨酸法	干压成型	1600	4h	Y/Yb/Sc/Ca	101.9/98.5/87/112	+3/+3/+3/+2	5.23%/2.61%/1.05%/2.13%	c	800	0.015
+102	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Sc2O3,Al(NO3)·9H2O,CaCO3	甘氨酸法	干压成型	1600	4h	Y/Yb/Sc/Al/Ca	101.9/98.5/87/54/112	+3/+3/+3/+3/+2	5.22%/2.61%/1.04%/0.27/2.13%	c	800	0.026
+103	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Dy(NO3)·6H2O	甘氨酸法	干压成型	1600	4h	Y/Yb/Dy	101.9/98.5/102.7	+3/+3/+3	5.39%/2.69%/0.27%	c	800	0.035
+104	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Dy(NO3)·6H2O,Al(NO3)·9H2O	甘氨酸法	干压成型	1600	4h	Y/Yb/Dy/Al	101.9/98.5/102.7/54	+3/+3/+3/+3	5.37%/2.68%/0.27%/0.28%	c	800	0.03
+105	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Dy(NO3)·6H2O,CaCO3	甘氨酸法	干压成型	1600	4h	Y/Yb/Dy/Ca	101.9/98.5/102.7/112	+3/+3/+3/+2	5.27%/2.63%/0.26%/2.15%	c	800	0.01
+106	1002-0721(2005)-0309-04（稀土学报）	Zr(NO3)4·5H2O,Y(NO3)3·6H2O,Yb(NO3)3·6H2O,Dy(NO3)·6H2O,Al(NO3)·9H2O,CaCO3	甘氨酸法	干压成型	1600	4h	Y/Yb/Dy/Al/Ca	101.9/98.5/102.7/54/112	+3/+3/+3/+3/+2	5.26%/2.63%/0.27%/0.27%/2.14%	c	800	0.022
+107	10.1016/j.ssi.2008.01.088	Zr(C5H7O2)4，Y(C5H7O2)3(H2O)x	商品化	超声喷雾热解	425	10min	Y	101.9	+3	0.08	c	650	0.033
+108	10.1002/cvde.201207006	ZrO2, Y2O3	商品化	金属有机化学气相沉积	670	/	Y	101.9	+3	0.13	c	600	0.001
+109	10.1002/cvde.201207006	ZrO2, Y2O3	商品化	金属有机化学气相沉积	670	/	Y	101.9	+3	0.13	c	700	0.005
+110	10.1002/cvde.201207006	ZrO2, Y2O3	商品化	金属有机化学气相沉积	670	/	Y	101.9	+3	0.13	c	800	0.013
+111	10.1002/cvde.201207006	ZrO2, Sc2O3	商品化	金属有机化学气相沉积	670	/	Sc	87	+3	0.08	c/t	600	0.002
+112	10.1002/cvde.201207006	ZrO2, Sc2O3	商品化	金属有机化学气相沉积	670	/	Sc	87	+3	0.08	c/t	700	0.007
+113	10.1002/cvde.201207006	ZrO2, Sc2O3	商品化	金属有机化学气相沉积	670	/	Sc	87	+3	0.08	c/t	800	0.021
+114	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Tosoh Corporation, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0291	/	800	0.018
+115	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Tosoh Corporation, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0291	/	900	0.035
+116	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Tosoh Corporation, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0291	/	1000	0.058
+117	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Tosoh Corporation, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0292	/	800	0.017
+118	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Tosoh Corporation, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0292	/	900	0.033
+119	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Tosoh Corporation, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0292	/	1000	0.055
+120	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Daiichi Kigenso Kagaku Kogyo Co. Ltd, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0294	/	800	0.016
+121	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Daiichi Kigenso Kagaku Kogyo Co. Ltd, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0294	/	900	0.032
+122	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Daiichi Kigenso Kagaku Kogyo Co. Ltd, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0294	/	1000	0.054
+123	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Nissan Chemical Industries, Chiba, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0298	/	800	0.018
+124	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Nissan Chemical Industries, Chiba, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0298	/	900	0.035
+125	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Nissan Chemical Industries, Chiba, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0298	/	1000	0.058
+126	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Scimarec Co. Ltd, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0287	/	800	0.017
+127	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Scimarec Co. Ltd, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0287	/	900	0.033
+128	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Scimarec Co. Ltd, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0287	/	1000	0.055
+129	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Tosoh Corporation, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0778	/	800	0.055
+130	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Tosoh Corporation, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0778	/	900	0.109
+131	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Tosoh Corporation, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0778	/	1000	0.185
+132	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Daiichi Kigenso Kagaku Kogyo Co. Ltd, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0796	/	800	0.048
+133	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Daiichi Kigenso Kagaku Kogyo Co. Ltd, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0796	/	900	0.1
+134	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Daiichi Kigenso Kagaku Kogyo Co. Ltd, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0796	/	1000	0.177
+135	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Nissan Chemical Industries, Chiba, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0763	/	800	0.051
+136	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Nissan Chemical Industries, Chiba, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0763	/	900	0.102
+137	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Nissan Chemical Industries, Chiba, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0763	/	1000	0.178
+138	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Scimarec Co. Ltd, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0854	/	800	0.048
+139	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Scimarec Co. Ltd, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0854	/	900	0.95
+140	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Scimarec Co. Ltd, Tokyo, Japan) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0854	/	1000	0.165
+141	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Magnesium Elektron Inc., UK) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0885	/	800	0.033
+142	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Magnesium Elektron Inc., UK) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0885	/	900	0.072
+143	10.1016/0167-2738(94)90263-1	YSZ，商业化材料(Magnesium Elektron Inc., UK) 	商品化	干压成型	1500	4h	Y	101.9	+3	0.0885	/	1000	0.135
+144	10.1016/j.ceramint.2014.06.015	YSZ，商业化材料，(Staffordshire, UK))	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	650	0.016
+145	10.1016/j.ceramint.2014.06.015	YSZ，商业化材料，(Staffordshire, UK))	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	800	0.049
+146	10.1016/j.ceramint.2014.06.015	YSZ，商业化材料，(Staffordshire, UK))	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	950	0.082
+147	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	650	0.0054
+148	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	800	0.016
+149	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	950	0.022
+150	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	650	0.005
+151	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	800	0.016
+152	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	950	0.032
+153	10.1016/j.ceramint.2014.06.015	YSZ，商业化材料，(Staffordshire, UK))	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	650	0.012
+154	10.1016/j.ceramint.2014.06.015	YSZ，商业化材料，(Staffordshire, UK))	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	800	0.051
+155	10.1016/j.ceramint.2014.06.015	YSZ，商业化材料，(Staffordshire, UK))	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	950	0.11
+156	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	650	0.009
+157	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	800	0.054
+158	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	950	0.074
+159	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	650	0.012
+160	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	800	0.033
+161	10.1016/j.ceramint.2014.06.015	8YSZ，商业化材料，(Tokyo, Japan)	商品化	流延	1500	2h	Y	101.9	+3	0.08	c	950	0.041
+162	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1300	3h	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.00020471285480509
+163	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1350	3h	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.000254852550936879
+164	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1400	3h	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.000283
+165	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1450	3h	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.000401
+166	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1500	3h	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.000521
+167	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1550	3h	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.00071
+168	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1400	10min	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.000225356176309313
+169	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1400	1h	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.000249051398631055
+170	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1400	10h	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.000353672450654121
+171	10.1016/j.ssi.2006.05.006	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan),SiO2	商品化	干压成型	1400	30h	Y/Si	101.9/26	+3/+4	8%/0.11%	c	400	0.000430820127209515
+172	10.2109/jcersj2.17056	8YSZ，商业化材料，(TZ-8Y; Toso, Japan) 	商品化	干压成型	1400	3h	Y	101.9	+3	0.08	c	400	0.00267
+173	10.2109/jcersj2.17056	8YSZ，商业化材料，(TZ-8Y; Toso, Japan) 	商品化	干压成型	1400	3h	Y	101.9	+3	0.08	c	530	0.00267
+174	10.2109/jcersj2.17056	8YSZ，商业化材料，(TZ-8Y; Toso, Japan) 	商品化	干压成型	1400	3h	Y	101.9	+3	0.08	c	400	0.000107
+175	10.1134/S0020168516030158	CeO，水热法自制;Sc2O3，水热法自制;Fe2O3，水热法自制	水热合成	干压成型	1350	2h	Ce/Sc/Fe	101.9/87/64.5	+4/+3/+3	7%/7%/3.5%	c	680	0.01
+176	10.1007/s10971-015-3778-1	YSZ，共沉淀法自制	共沉淀法	气相沉积	/	/	Y	101.9	+3	0.08	c	427	0.00028
+177	10.1007/s10971-015-3778-1	YSZ，溶胶凝胶法自制	溶胶凝胶法	气相沉积	/	/	Y	101.9	+3	0.08	c	427	0.00011
+178	10.1007/s10971-015-3778-1	YSZ，溶胶凝胶法自制	溶胶凝胶法	气相沉积	/	/	Y	101.9	+3	0.08	c	427	3e-06
+179	10.1016/j.jallcom.2018.08.117	ZrO2,Y2O3,Eu2O3	定向熔融结晶	切割抛光	/	/	Y/Eu	101.9/112	+3/+3	2.7/0.1%	t	900	0.026
+180	10.1016/j.jallcom.2018.08.117	ZrO2,Y2O3,Eu2O3	定向熔融结晶	切割抛光	/	/	Y/Eu	101.9/112	+3/+3	3.6/0.1%	t	900	0.028
+181	10.1016/j.jallcom.2018.08.117	ZrO2,Y2O3,Eu2O3	定向熔融结晶	切割抛光	/	/	Y/Eu	101.9/112	+3/+3	8/0.1%	c	900	0.063
+182	10.1016/j.jallcom.2018.08.117	ZrO2,Y2O3,Eu2O3	定向熔融结晶	切割抛光	/	/	Y/Eu	101.9/112	+3/+3	12/0.1%	c	900	0.015
+183	10.1016/j.jallcom.2018.08.117	ZrO2,Y2O3,Eu2O3	定向熔融结晶	切割抛光	/	/	Y/Eu	101.9/112	+3/+3	16/0.1%	c	900	0.015
+184	10.1016/j.jallcom.2018.08.117	ZrO2,Y2O3,Eu2O3	定向熔融结晶	切割抛光	/	/	Y/Eu	101.9/112	+3/+3	35/0.1%	c	900	0.004
+185	10.1016/j.ssi.2004.06.012	3YSZ，自制材料，（Millennium Performance ChemicalsAustralia）	溶胶凝胶法	干压成型	1300	3h	Y	101.9	+3	0.03	/	850	0.026
+186	10.1016/j.ssi.2004.06.012	3YSZ，自制材料，（Millennium Performance ChemicalsAustralia）	溶胶凝胶法	干压成型	1350	3h	Y	101.9	+3	0.03	/	850	0.026
+187	10.1016/j.ssi.2004.06.012	3YSZ，自制材料，（Millennium Performance ChemicalsAustralia）	溶胶凝胶法	干压成型	1400	3h	Y	101.9	+3	0.03	/	850	0.024
+188	10.1016/j.ssi.2004.06.012	3YSZ，自制材料，（Millennium Performance ChemicalsAustralia）	溶胶凝胶法	干压成型	1400	3h	Y	101.9	+3	0.03	/	850	0.025
+189	10.1016/j.ssi.2004.06.012	3YSZ，自制材料，（Millennium Performance ChemicalsAustralia）	溶胶凝胶法	干压成型	1500	3h	Y	101.9	+3	0.03	/	850	0.024
+190	10.1016/j.ssi.2004.06.012	3YSZ，自制材料，（Millennium Performance ChemicalsAustralia）	溶胶凝胶法	干压成型	1600	3h	Y	101.9	+3	0.03	/	850	0.024
+191	10.1016/j.ssi.2004.06.012	3YSZ，自制材料，（Millennium Performance ChemicalsAustralia）	溶胶凝胶法	干压成型	1400	3h	Y	101.9	+3	0.03	/	1000	0.058
+192	10.1016/j.ssi.2004.06.012	3YSZ，自制材料，（Millennium Performance ChemicalsAustralia）	溶胶凝胶法	干压成型	1400	3h	Y	101.9	+3	0.03	/	1000	0.055
+193	10.1016/S1001-0521(07)60110-7	8YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）	商品化	干压成型	1450	2h	Y	101.9	+3	0.08	c+t	1000	0.149568619222635
+194	10.1016/S1001-0521(07)60110-7	8YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）；3YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）	商品化	干压成型	1450	2h	Y	101.9	+3	0.0748	c+t	1000	0.100258843722804
+195	10.1016/S1001-0521(07)60110-7	8YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）；3YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）	商品化	干压成型	1450	2h	Y	101.9	+3	0.0697	c+t	1000	0.0907179532894125
+196	10.1016/S1001-0521(07)60110-7	8YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）；3YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）	商品化	干压成型	1450	2h	Y	101.9	+3	0.0646	c+t	1000	0.11
+197	10.1016/S1001-0521(07)60110-7	8YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）；3YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）	商品化	干压成型	1450	2h	Y	101.9	+3	0.0595	c+t	1000	0.0820849986238988
+198	10.1016/S1001-0521(07)60110-7	8YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）；3YSZ，商业化材料，（Farmeiya Jiujiang Advanced Materials Co., Ltd.）	商品化	干压成型	1450	2h	Y	101.9	+3	0.0545	c+t	1000	0.074274
+199	10.1016/j.actamat.2008.11.028	Zr/Y靶材	商品化	磁控溅射	/	/	Y	101.9	+3	0.015	/	500	4e-05
+200	10.1016/j.actamat.2008.11.028	Zr/Y靶材	商品化	磁控溅射	/	/	Y	101.9	+3	0.032	/	500	0.0022
+201	10.1016/j.actamat.2008.11.028	Zr/Y靶材	商品化	磁控溅射	/	/	Y	101.9	+3	0.05	/	500	0.005
+202	10.1016/j.actamat.2008.11.028	Zr/Y靶材	商品化	磁控溅射	/	/	Y	101.9	+3	0.065	/	500	0.007
+203	10.1016/j.actamat.2008.11.028	Zr/Y靶材	商品化	磁控溅射	/	/	Y	101.9	+3	0.091	/	500	0.0028
+204	10.1016/j.actamat.2008.11.028	Zr/Y靶材	商品化	磁控溅射	/	/	Y	101.9	+3	0.005	/	450	6.2e-07
+205	10.1016/j.actamat.2008.11.028	Zr/Y靶材	商品化	磁控溅射	/	/	Y	101.9	+3	0.015	/	500	3.622e-05
+206	10.1016/j.actamat.2008.11.028	Zr/Y靶材	商品化	磁控溅射	/	/	Y	101.9	+3	0.015	/	450	1.245e-05
+207	10.1016/j.actamat.2008.11.028	Zr/Y靶材	商品化	磁控溅射	/	/	Y	101.9	+3	0.065	/	450	0.002213
+208	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	400	9.38e-05
+209	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	450	0.000437
+210	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	500	0.001705
+211	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	550	0.004837
+212	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	600	0.011455
+213	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	650	0.021617
+214	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	700	0.036466
+215	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	750	0.046787
+216	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	800	0.052408
+217	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	850	0.083104
+218	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	900	0.100162
+219	10.1016/j.ssi.2010.10.012	ScSZ，溶胶凝胶法自制，99.9%	溶胶凝胶法	干压成型	1500	5h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	950	0.115498
+220	10.2320/matertrans1989.39.1115	3YSZ，商业化材料，(TZ-3Y,TosohCorporation,Tokyo,Japan)；Mn3O4，商业化材料，（Soekewa-Rikagaku）,99.9%	商品化	干压成型	1400	/	Y/Mn	101.9/83	+3/+2	0.03	/	1000	0.053
+221	10.2320/matertrans1989.39.1115	3YSZ，商业化材料，(TZ-3Y,TosohCorporation,Tokyo,Japan)；Mn3O4，商业化材料，（Soekewa-Rikagaku）,99.9%	商品化	干压成型	1400	/	Y/Mn	101.9/83	+3/+2	3%/3%	/	1000	0.035
+222	10.2320/matertrans1989.39.1115	3YSZ，商业化材料，(TZ-3Y,TosohCorporation,Tokyo,Japan)；Mn3O4，商业化材料，（Soekewa-Rikagaku）,99.9%	商品化	干压成型	1400	/	Y/Mn	101.9/83	+3/+2	3%/5.2%	/	1000	0.037
+223	10.2320/matertrans1989.39.1115	3YSZ，商业化材料，(TZ-3Y,TosohCorporation,Tokyo,Japan)；Mn3O4，商业化材料，（Soekewa-Rikagaku）,99.9%	商品化	干压成型	1400	/	Y/Mn	101.9/83	+3/+2	3%/7.6%	/	1000	0.05
+224	10.1002/adfm.201202020	zirconium 2,4-pentane dionate and yttrium 2,4-pentane dionate in pure ethano	商品化	化学气相沉积	/	/	Y	101.9	+3	0.08	/	400	9e-05
+225	10.1002/adfm.201202020	3YSZ powder (Tosoh Corp., Japan)	商品化	激光脉冲沉积	450	/	Y	101.9	+3	0.03	/	400	1e-05
+226	10.1002/adfm.201202020	8YSZ powder (Tosoh Corp., Japan)	商品化	激光脉冲沉积	700	/	Y	101.9	+3	0.08	/	400	0.00015
+227	10.1002/adfm.201202020	zirconium 2,4-pentane dionate and yttrium chloride hydrate dissolved in 80 vol% tetraethylene glycol, 10 vol% polyethylene glycol 600 and 10 vol% ethanol	商品化	喷雾热解	/	/	Y	101.9	+3	0.08	/	400	6e-05
+228	10.1016/j.surfcoat.2004.04.086	YSZ，自制	溶胶凝胶法	等离子喷涂沉积	/	/	Y	101.9	+3	0.08	/	800	0.042
+229	10.1016/j.surfcoat.2004.04.086	YSZ，自制	溶胶凝胶法	等离子喷涂沉积	/	/	Y	101.9	+3	0.03	/	800	0.018
+230	10.1016/j.surfcoat.2004.04.086	YSZ，自制	溶胶凝胶法	等离子喷涂沉积	/	/	Y	101.9	+3	0.045	/	800	0.027
+231	10.1016/j.jeurceramsoc.2014.12.002	ZrO2,CaO2,Bi2O3混合粉体，固相法自制	固相合成	干压成型	1300	6h	Ca	112	+2	0.12	c	760	0.0016
+232	10.1016/j.jeurceramsoc.2014.12.002	ZrO2,CaO2,Bi2O3混合粉体，固相法自制	固相合成	干压成型	1300	6h	Ca/Bi	112/96	+2/+3	12%/2%	c	760	0.0045
+233	10.1016/j.jeurceramsoc.2014.12.002	ZrO2,CaO2,Bi2O3混合粉体，固相法自制	固相合成	干压成型	1300	6h	Ca/Bi	112/96	+2/+3	12%/5%	c	760	0.019
+234	10.1016/j.jeurceramsoc.2014.12.002	ZrO2,CaO2,Bi2O3混合粉体，固相法自制	固相合成	干压成型	1300	6h	Ca/Bi	112/96	+2/+3	12%/10%	c	760	0.0083
+235	10.1016/j.ceramint.2018.09.026	3YSZ，商业化材料，(TZ-3Y,TosohCorporation,Tokyo,Japan)	商品化	干压成型	1500	5h	Y	101.9	+3	0.03	c	750	0.011
+236	10.1016/j.ceramint.2018.09.026	6YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan)	商品化	干压成型	1500	5h	Y	101.9	+3	0.06	c	750	0.017
+237	10.1016/j.ceramint.2018.09.026	8YSZ，商业化材料，(TZ-8YS,TosohCorporation,Tokyo,Japan)	商品化	干压成型	1500	5h	Y	101.9	+3	0.08	t	750	0.036
+238	10.1016/0167-2738(96)00282-2	3YSZ，商业化材料，(TZ-3Y,TosohCorporation,Tokyo,Japan)	商品化	干压成型	1500	4h	Y	101.9	+3	0.03	c	1000	0.058
+239	10.1016/0167-2738(96)00282-2	8YSZ，商业化材料，(TZ-8Y,TosohCorporation,Tokyo,Japan)	商品化	干压成型	1500	4h	Y	101.9	+3	0.08	c	1000	0.175
+240	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.08	c	700	0.02
+241	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.08	c	800	0.05
+242	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.08	c	900	0.11
+243	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.08	c	1000	0.155
+244	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.095	c	700	0.02
+245	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.095	c	800	0.045
+246	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.095	c	900	0.075
+247	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.095	c	1000	0.135
+248	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.08	c	1000	0.1
+249	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.08	c	1000	0.158
+250	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.09	c	1000	0.125
+251	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.09	c	1000	0.142
+252	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.1	c	1000	0.12
+253	10.1016/j.jpowsour.2003.11.084	  ZrO2 （Kyoritsu Ceramic Material Co.）； Y2O3（Kyoritsu Ceramic Material Co.）	商品化	干压成型	1500	10h	Y	101.9	+3	0.1	c	1000	0.124
+254	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	6%/2%	c	290	3.54e-06
+255	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	6%/2%	c	530	0.00134896288259165
+256	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	7%/2%	c	290	3.16227766016838e-06
+257	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	7%/2%	c	530	0.00112201845430196
+258	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	8%/2%	c	290	6.02559586074358e-07
+259	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	8%/2%	c	530	6.30957344480193e-05
+260	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	9%/2%	c	290	8.31763771102671e-07
+261	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	9%/2%	c	530	0.000141253754462275
+262	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	10%/2%	c	290	2.08929613085404e-06
+263	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	10%/2%	c	530	0.000630957344480193
+264	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	12%/2%	c	290	9.77237220955811e-08
+265	10.1007/s11581-013-1052-5	Y2O3与Fe2O3混合粉末，共沉淀法自制	共沉淀法	干压成型	1500	2h	Y/Fe	101.9/64.5	+3/+3	12%/2%	c	530	4.67735141287198e-05
+266	10.1016/S0167-2738(99)00015-6	YSZ，商品化材料, (TZ8Y，Tosoh Corporation, Tokyo, Japan)；Fisons Al2O3,商品化材料 （Camag 100–250 目）	商品化	干压成型	1500	24h	Y/Al	101.9/54	+3/+3	8%/9%	c	1000	0.12
+267	10.1016/S0167-2738(99)00015-6	YSZ，商品化材料, (TZ8Y，Tosoh Corporation, Tokyo, Japan)；Fisons Al2O3,商品化材料 （Camag 100–250 目）	商品化	干压成型	1500	24h	Y/Al	101.9/54	+3/+3	3%/20%	c	1000	0.026
+268	10.1016/S0167-2738(99)00015-6	YSZ，商品化材料, (TZ8Y，Tosoh Corporation, Tokyo, Japan)；Fisons Al2O3,商品化材料 （Camag 100–250 目）	商品化	干压成型	1500	24h	Y	101.9	+3	0.03	c	1000	0.075
+269	10.1016/S0167-2738(99)00015-6	YSZ，商品化材料, (TZ8Y，Tosoh Corporation, Tokyo, Japan)；Fisons Al2O3,商品化材料 （Camag 100–250 目）	商品化	干压成型	1500	24h	Y	101.9	+3	0.08	c	1000	0.089
+270	10.1016/S0167-2738(99)00015-6	YSZ，商品化材料, (TZ8Y，Tosoh Corporation, Tokyo, Japan)；Fisons Al2O3,商品化材料 （Camag 100–250 目）	商品化	干压成型	1500	24h	Y/Al	101.9/54	+3/+3	8%/0.5wt%	c	1000	0.112
+271	10.1007/s11581-016-1880-1	/	/	干压成型	/	/	Y	101.9	+3	0.05	c	1400	0.378
+272	10.1007/s11581-016-1880-1	/	/	干压成型	/	/	Y	101.9	+3	0.089	c	1400	0.561
+273	10.1007/s11581-016-1880-1	/	/	干压成型	/	/	Y	101.9	+3	0.105	c	1400	0.544
+274	10.1007/s11581-016-1880-1	/	/	干压成型	/	/	Y	101.9	+3	0.115	c	1400	0.485
+275	10.1007/s11581-016-1880-1	/	/	干压成型	/	/	Y	101.9	+3	0.126	c	1400	0.417
+276	10.1007/s11581-016-1880-1	/	/	干压成型	/	/	Y	101.9	+3	0.155	c	1400	0.311
+277	10.1002/pssa.19700020319	YSZ， 99.5%；ZrO2， 99.9%	商品化	干压成型	1500	2h	Y	101.9	+3	0.05	c	1200	0.205
+278	10.1002/pssa.19700020319	YSZ， 99.5%；ZrO2， 99.9%	商品化	干压成型	1500	2h	Y	101.9	+3	0.068	c	1200	0.237
+279	10.1002/pssa.19700020319	YSZ， 99.5%；ZrO2， 99.9%	商品化	干压成型	1500	2h	Y	101.9	+3	0.08	c	1200	0.251
+280	10.1002/pssa.19700020319	YSZ， 99.5%；ZrO2， 99.9%	商品化	干压成型	1500	2h	Y	101.9	+3	0.09	c	1200	0.271
+281	10.1002/pssa.19700020319	YSZ， 99.5%；ZrO2， 99.9%	商品化	干压成型	1500	2h	Y	101.9	+3	0.1	c	1200	0.287
+282	10.1002/pssa.19700020319	YSZ， 99.5%；ZrO2， 99.9%	商品化	干压成型	1500	2h	Y	101.9	+3	0.01	c	1200	0.19
+283	10.1002/pssa.19700020319	YSZ， 99.5%；ZrO2， 99.9%	商品化	干压成型	1500	2h	Y	101.9	+3	0.15	c	1200	0.137
+284	10.1002/pssa.19700020319	YSZ， 99.5%；ZrO2， 99.9%	商品化	干压成型	1500	2h	Y	101.9	+3	0.2	c	1200	0.076
+285	10.1002/pssa.19700020319	YSZ， 99.5%；ZrO2， 99.9%	商品化	干压成型	1500	2h	Y	101.9	+3	0.25	c	1200	0.044
+286	10.1002/pssa.19700010418	YSZ，商品化材料, (Magnesium Elektron, Ltd., Manchester),  99.5%	商品化	干压成型	1550	24h	Y	101.9	+3	0.05	c	1000	0.074
+287	10.1002/pssa.19700010418	YSZ，商品化材料, (Magnesium Elektron, Ltd., Manchester),  99.5%	商品化	干压成型	1550	24h	Y	101.9	+3	0.09	c	1000	0.135
+288	10.1002/pssa.19700010418	YSZ，商品化材料, (Magnesium Elektron, Ltd., Manchester),  99.5%	商品化	干压成型	1550	24h	Y	101.9	+3	0.105	c	1000	0.116
+289	10.1002/pssa.19700010418	YSZ，商品化材料, (Magnesium Elektron, Ltd., Manchester),  99.5%	商品化	干压成型	1550	24h	Y	101.9	+3	0.115	c	1000	0.086
+290	10.1002/pssa.19700010418	YSZ，商品化材料, (Magnesium Elektron, Ltd., Manchester),  99.5%	商品化	干压成型	1550	24h	Y	101.9	+3	0.154	c	1000	0.032
+291	10.1002/pssa.19700010418	YSZ，商品化材料, (Magnesium Elektron, Ltd., Manchester),  99.5%	商品化	干压成型	1550	24h	Y	101.9	+3	0.2	c	1000	0.013
+292	10.1002/pssa.19700010418	YSZ，商品化材料, (Magnesium Elektron, Ltd., Manchester),  99.5%	商品化	干压成型	1550	24h	Y	101.9	+3	0.125	c	1000	0.067
+293	10.1007/s11581-016-1880-1	/	/	/	/	/	Y	101.9	+3	0.09	c	1000	0.17
+294	10.1007/s11581-016-1880-1	/	/	/	/	/	Y	101.9	+3	0.09	c	1000	0.091
+295	10.1007/s11581-016-1880-1	/	/	/	/	/	Y	101.9	+3	0.11	c	1000	0.084
+296	10.1111/J.1151-2916.1964	/	/	/	/	/	Y	101.9	+3	0.05	c	1000	0.048
+297	10.1111/J.1151-2916.1964	/	/	/	/	/	Y	101.9	+3	0.07	c	1000	0.081
+298	10.1111/J.1151-2916.1964	/	/	/	/	/	Y	101.9	+3	0.08	c	1000	0.087
+299	10.1111/J.1151-2916.1964	/	/	/	/	/	Y	101.9	+3	0.09	c	1000	0.103
+300	10.1111/J.1151-2916.1964	/	/	/	/	/	Y	101.9	+3	0.1	c	1000	0.096
+301	10.1111/J.1151-2916.1964	/	/	/	/	/	Y	101.9	+3	0.11	c	1000	0.068
+302	10.1111/J.1151-2916.1964	/	/	/	/	/	Y	101.9	+3	0.15	c	1000	0.026
+303	10.1111/J.1151-2916.1964	/	/	/	/	/	Y	101.9	+3	0.25	c	1000	0.007
+304	10.1007/s11581-016-1880-1	ZrO2(TAM ,高纯)、 Y2O3( Lindsay ,99.9%) 	商品化	干压成型	1800	3h	Y	101.9	+3	0.06	c	1000	0.04
+305	10.1007/s11581-016-1880-1	ZrO2(TAM ,高纯)、 Y2O3( Lindsay ,99.9%) 	商品化	干压成型	1800	3h	Y	101.9	+3	0.07	c	1000	0.111
+306	10.1007/s11581-016-1880-1	ZrO2(TAM ,高纯)、 Y2O3( Lindsay ,99.9%) 	商品化	干压成型	1800	3h	Y	101.9	+3	0.11	c	1000	0.099
+307	10.1007/s11581-016-1880-1	ZrO2(TAM ,高纯)、 Y2O3( Lindsay ,99.9%) 	商品化	干压成型	1800	3h	Y	101.9	+3	0.15	c	1000	0.041
+308	10.1007/s11581-016-1880-1	ZrO2(TAM ,高纯)、 Y2O3( Lindsay ,99.9%) 	商品化	干压成型	1800	3h	Y	101.9	+3	0.2	c	1000	0.019
+309	10.1002/pssa.19700010418	ZrO2(Magnesium Elektron,99.5%)和Y2O3(英国普尔制药有限公司,99.0%)	商品化	干压成型	1550	24h	Y	101.9	+3	0.05	c	700	0.011
+310	10.1002/pssa.19700010418	ZrO2(Magnesium Elektron,99.5%)和Y2O3(英国普尔制药有限公司,99.0%)	商品化	干压成型	1550	24h	Y	101.9	+3	0.088	c	700	0.019
+311	10.1002/pssa.19700010418	ZrO2(Magnesium Elektron,99.5%)和Y2O3(英国普尔制药有限公司,99.0%)	商品化	干压成型	1550	24h	Y	101.9	+3	0.105	c	700	0.014
+312	10.1002/pssa.19700010418	ZrO2(Magnesium Elektron,99.5%)和Y2O3(英国普尔制药有限公司,99.0%)	商品化	干压成型	1550	24h	Y	101.9	+3	0.115	c	700	0.011
+313	10.1002/pssa.19700010418	ZrO2(Magnesium Elektron,99.5%)和Y2O3(英国普尔制药有限公司,99.0%)	商品化	干压成型	1550	24h	Y	101.9	+3	0.125	c	700	0.007
+314	10.1002/pssa.19700010418	ZrO2(Magnesium Elektron,99.5%)和Y2O3(英国普尔制药有限公司,99.0%)	商品化	干压成型	1550	24h	Y	101.9	+3	0.155	c	700	0.003
+315	10.1002/pssa.19700010418	ZrO2(Magnesium Elektron,99.5%)和Y2O3(英国普尔制药有限公司,99.0%)	商品化	干压成型	1550	24h	Y	101.9	+3	0.2	c	700	0.0007
+316	10.1002/pssa.19700020319	ZrO2(99.5%)和Y2O3(99.99)	商品化	干压成型	1500	2h	Y	101.9	+3	0.05	c	800	0.006
+317	10.1002/pssa.19700020319	ZrO2(99.5%)和Y2O3(99.99)	商品化	干压成型	1500	2h	Y	101.9	+3	0.07	c	800	0.02
+318	10.1002/pssa.19700020319	ZrO2(99.5%)和Y2O3(99.99)	商品化	干压成型	1500	2h	Y	101.9	+3	0.08	c	800	0.023
+319	10.1002/pssa.19700020319	ZrO2(99.5%)和Y2O3(99.99)	商品化	干压成型	1500	2h	Y	101.9	+3	0.09	c	800	0.024
+320	10.1002/pssa.19700020319	ZrO2(99.5%)和Y2O3(99.99)	商品化	干压成型	1500	2h	Y	101.9	+3	0.1	c	800	0.021
+321	10.1002/pssa.19700020319	ZrO2(99.5%)和Y2O3(99.99)	商品化	干压成型	1500	2h	Y	101.9	+3	0.11	c	800	0.016
+322	10.1002/pssa.19700020319	ZrO2(99.5%)和Y2O3(99.99)	商品化	干压成型	1500	2h	Y	101.9	+3	0.15	c	800	0.0027
+323	10.1002/pssa.19700020319	ZrO2(99.5%)和Y2O3(99.99)	商品化	干压成型	1500	2h	Y	101.9	+3	0.25	c	800	0.0006
+324	10.1016/S0167-2738(00)00356-8	ZrO2(MELChemicals)和Sc2O399.0% (Boulder Scientific)	溶胶凝胶法	干压成型	1500	4h	Sc	87	+3	0.093	c	1000	0.386871356976511
+325	10.1016/S0167-2738(00)00356-8	ZrO2(MELChemicals)和Sc2O399.0% (Boulder Scientific)	溶胶凝胶法	干压成型	1500	4h	Sc	87	+3	0.093	c	900	0.253116864607719
+326	10.1016/S0167-2738(00)00356-8	ZrO2(MELChemicals)和Sc2O399.0% (Boulder Scientific)	溶胶凝胶法	干压成型	1500	4h	Sc	87	+3	0.093	c	650	0.0345558262416498
+327	10.1016/S0167-2738(00)00356-8	ZrO2(MELChemicals)和Sc2O399.0% (Boulder Scientific)	溶胶凝胶法	干压成型	1500	4h	Sc	87	+3	0.093	c	500	0.00209680338307939
+328	10.1016/S0167-2738(00)00356-8	ZrO2(MELChemicals)和Sc2O399.0% (Boulder Scientific)	溶胶凝胶法	干压成型	1500	4h	Sc	87	+3	0.093	c	400	0.000129015280523579
+329	10.1016/j.jpowsour.2006.02.007	10ScSZ （Tosoh, Japan）	商品化	干压成型	1550	2h	Sc	87	+3	0.1	c	700	0.0422982440668615
+330	10.1016/j.jpowsour.2006.02.007	10ScSZ （Tosoh, Japan）	商品化	干压成型	1550	2h	Sc	87	+3	0.1	c	650	0.0239446189932118
+331	10.1016/j.jpowsour.2006.02.007	10ScSZ （Tosoh, Japan）	商品化	干压成型	1550	2h	Sc	87	+3	0.1	c	600	0.0169945112565299
+332	10.1016/j.jpowsour.2006.02.007	10ScSZ （Tosoh, Japan）	商品化	干压成型	1550	2h	Sc	87	+3	0.1	c	550	0.00279854666055033
+333	10.1016/j.jpowsour.2006.02.007	10ScSZ （Tosoh, Japan）	商品化	干压成型	1550	2h	Sc	87	+3	0.1	c	500.254672873399	0.000354072000532406
+334	10.1016/j.jpowsour.2006.02.007	10ScSZ （Tosoh, Japan）	商品化	干压成型	1550	2h	Sc	87	+3	0.1	c	450	0.000112413482002394
+335	10.1016/j.jpowsour.2006.02.007	10ScSZ （Tosoh, Japan）	商品化	干压成型	1550	2h	Sc	87	+3	0.1	c	350	4.57338897864725e-06
+336	10.1016/j.jpowsour.2006.02.007	10ScSZ （Tosoh, Japan）	商品化	干压成型	1550	2h	Sc	87	+3	0.1	c	300	1.40068329665842e-06
+337	10.1007/s11581-016-1880-1	ScSZ(高纯)	商品化	干压成型	1550	2h	Sc	87	+3	0.09	c	850	0.104830753423978
+338	10.1007/s11581-016-1880-1	ScSZ(高纯)	商品化	干压成型	1550	2h	Sc	87	+3	0.09	c	800.409034128521	0.0707237089887659
+339	10.1007/s11581-016-1880-1	ScSZ(高纯)	商品化	干压成型	1550	2h	Sc	87	+3	0.09	c	749.770160123703	0.0461556493568605
+340	10.1007/s11581-016-1880-1	ScSZ(高纯)	商品化	干压成型	1550	2h	Sc	87	+3	0.09	c	700	0.0249205988584967
+341	10.1007/s11581-016-1880-1	ScSZ(高纯)	商品化	干压成型	1550	2h	Sc	87	+3	0.09	c	650	0.014028522450442
+342	10.1007/s11581-016-1880-1	ScSZ(高纯)	商品化	干压成型	1550	2h	Sc	87	+3	0.09	c	599.879497424572	0.00643727383016389
+343	10.1016/j.ssi.2004.07.039	氯化钪（Varioline，俄罗斯）和n-丙二酸锆乙醇溶液（Heraeus，德国）	溶胶凝胶法	干压成型	1400	10 h	Sc	87	+3	0.1	c	950	0.274389335743671
+344	10.1016/j.ssi.2004.07.039	氯化钪（Varioline，俄罗斯）和n-丙二酸锆乙醇溶液（Heraeus，德国）	溶胶凝胶法	干压成型	1400	10 h	Sc	87	+3	0.1	c	850.4712977142	0.161961022634086
+345	10.1016/j.ssi.2004.07.039	氯化钪（Varioline，俄罗斯）和n-丙二酸锆乙醇溶液（Heraeus，德国）	溶胶凝胶法	干压成型	1400	10 h	Sc	87	+3	0.1	c	750	0.0716594614599113
+346	10.1149/200507.0947PV	ScSZ	商品化	超声雾化	1400	5h	Sc	87	+3	0.1	c	900	0.20278466676944
+347	10.1149/200507.0947PV	ScSZ	商品化	超声雾化	1400	5h	Sc	87	+3	0.1	c	850	0.13940717397123
+348	10.1149/200507.0947PV	ScSZ	商品化	超声雾化	1400	5h	Sc	87	+3	0.1	c	800	0.0890146192976177
+349	10.1149/200507.0947PV	ScSZ	商品化	超声雾化	1400	5h	Sc	87	+3	0.1	c	750	0.0590343899012895
+350	10.1149/200507.0947PV	ScSZ	商品化	超声雾化	1400	5h	Sc	87	+3	0.1	c	700.186481953117	0.0364762707055186
+351	10.1149/200507.0947PV	ScSZ	商品化	超声雾化	1400	5h	Sc	87	+3	0.1	c	649.657885716367	0.0205500908947287
+352	10.1149/200507.0947PV	ScSZ	商品化	超声雾化	1400	5h	Sc	87	+3	0.1	c	599.879497424572	0.00923657377709915
+353	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	1000	0.0981357817363293
+354	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	950	0.0784581317857574
+355	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	850	0.0608104546503941
+356	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	800	0.0413354521828111
+357	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	750	0.0297847287135364
+358	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	700	0.017194186832989
+359	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	650	0.00723473419699885
+360	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	600	0.000261665148589128
+361	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	500	1.51210823290058e-05
+362	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	400	2.84647166507466e-06
+363	10.1149/200507.0941PV	Sc2O3 (Stanford Material Corporation, 99.99% purity), ZrO2 (Fluka, 99% purity) ,Y2O3 (Alfa Aesar, 99.9% purity)	固相合成	干压成型	1600	16h	Sc	87	+3	0.11	c	350	4.96359761616586e-07
+364	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	600	0.00411183003606635
+365	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	550	0.0019872178530299
+366	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	500	0.0006676693968062
+367	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	450.023175293216	0.000228901649371271
+368	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	400	6.41235281929745e-05
+369	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	350.000209826296	1.22382437119632e-05
+370	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	600	0.0833782287714468
+371	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	550	0.0402961132020043
+372	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	500	0.0190854184990157
+373	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	450	0.00800771802424203
+374	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	400	0.00274534265689434
+375	10.1016/S0167-2738(00)00591-9	/	/	旋涂	1200	""	Y	101.9	+3	0.16	c	349.648634946213	0.000833782094986481
+376	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1550	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	800	0.147046536751081
+377	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1550	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	750	0.0926842992321211
+378	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1550	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	700	0.0542028057203101
+379	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1550	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	650	0.0302769216230718
+380	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1550	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	600	0.0155314253496023
+381	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1550	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	550	0.0075555392687694
+382	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1550	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	500	0.00326082212207453
+383	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1600	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	800	0.126545078084437
+384	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1600	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	750	0.0796068388086791
+385	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1600	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	700	0.0434687853171944
+386	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1600	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	650	0.024977104073643
+387	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1600	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	600	0.0127160550309041
+388	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1600	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	550	0.00581542391731054
+389	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1600	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	500	0.00245559857885033
+390	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1500	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	800	0.11462723843899
+391	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1500	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	750	0.0687702134237342
+392	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1500	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	700	0.0394257969708632
+393	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1500	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	650	0.0234659894486846
+394	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1500	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	600	0.0105421082549161
+395	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1500	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	550	0.0047898781381398
+396	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1500	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	500	0.00202323885325841
+397	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1450	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	800	0.102732494056136
+398	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1450	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	750	0.0603696978325793
+399	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1450	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	700	0.0358227363128967
+400	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1450	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	650	0.0188252872198444
+401	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1450	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	600	0.00888108979706909
+402	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1450	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	550	0.00420415780825104
+403	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1450	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	500	0.00171557709831313
+404	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1400	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	800	0.0841764839055481
+405	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1400	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	750	0.0508471512596896
+406	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1400	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	700	0.0281503655933812
+407	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1400	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	650	0.0149934688630913
+408	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1400	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	600	0.00757598591703821
+409	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1400	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	550	0.00341738539008116
+410	10.1016/j.ceramint.2015.12.110	Sc(NO3)3·6H2O, Ce(NO3)3·6H2O和Zr(NO3)3·6H2O	溶胶凝胶法	干压成型	1400	6h	Sc/Ce	87/105.3	+3/+4	10%/1%	c	500	0.00136676507804893
+411	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	1000.498906595	0.000395678839731561
+412	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	950	0.000353293699337788
+413	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	900	0.000312042603133259
+414	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	850	0.000274939504059872
+415	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	800	0.000243296048396725
+416	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	750	0.000196056844608193
+417	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	700	0.000164736452697231
+418	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	650	0.000132776617316478
+419	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	600	0.000105234573047868
+420	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	550	8.2548893621667e-05
+421	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.08	c	500	6.45451237810888e-05
+422	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.05	c	1000	0.000348540991347868
+423	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.05	c	900	0.000293327993959044
+424	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.05	c	850	0.000256882574918739
+425	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.05	c	800	0.000221601600050644
+426	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.05	c	750	0.000196739003431736
+427	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.05	c	700	0.000167456709407429
+428	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.05	c	650	0.000139878330073542
+429	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.05	c	600	0.000118736650483423
+430	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.05	c	550	9.48797756831559e-05
+431	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	1000	0.000282878980630344
+432	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	950	0.000234451082921376
+433	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	900	0.000207522227877293
+434	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	850	0.000179094953020333
+435	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	800	0.000134556784297084
+436	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	750	0.00010971825896178
+437	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	700	9.64089255987272e-05
+438	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	650	8.44116004203593e-05
+439	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	600	6.79567485502349e-05
+440	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	550	4.81962845981269e-05
+441	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.12	c	500	4.00879968606614e-05
+442	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	1000	0.000215417589724478
+443	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	950	0.000193745071097953
+444	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	900	0.000164855234285717
+445	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	850	0.000144118784519763
+446	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	800	0.00011886034733618
+447	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	750	9.30252356806316e-05
+448	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	700	7.78707607520657e-05
+449	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	650	6.47983190246856e-05
+450	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	600	5.32345935451563e-05
+451	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	550	4.30853716892685e-05
+452	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	500	3.55921065384427e-05
+453	10.1016/0167-2738(95)00044-7	ZrOCl2，Y2O3	共沉淀	干压成型	1500	15h	Yb	98.5	+3	0.03	c	450	2.95801951881073e-05
+454	10.1007/s43207-023-00296-3	ZrOCl2，Sc2O3	溶胶凝胶法	等静压成型	1700	12h	Sc	87	+3	0.07	c	1000	0.195961952176871
+455	10.1007/s43207-023-00296-3	ZrOCl2，Sc2O3	溶胶凝胶法	等静压成型	1700	12h	Sc	87	+3	0.08	c	1000	0.232008454071759
+456	10.1007/s43207-023-00296-3	ZrOCl2，Sc2O3	溶胶凝胶法	等静压成型	1700	12h	Sc	87	+3	0.09	c	1000	0.276902744423172
+457	10.1007/s43207-023-00296-3	ZrOCl2，Sc2O3	溶胶凝胶法	等静压成型	1700	12h	Sc	87	+3	0.1	c	1000	0.289027484733643
+458	10.1007/s43207-023-00296-3	ZrOCl2，Sc2O3	溶胶凝胶法	等静压成型	1700	12h	Sc	87	+3	0.11	c	1000	0.297875264189742
+459	10.1007/s43207-023-00296-3	ZrOCl2，Sc2O3	溶胶凝胶法	等静压成型	1700	12h	Sc	87	+3	0.12	c	1000	0.271331921321231
+460	10.1007/s43207-023-00296-3	ZrOCl2，Sc2O3	溶胶凝胶法	等静压成型	1700	12h	Sc	87	+3	0.13	c	1000	0.254291755479949
+461	10.1007/s43207-023-00296-3	ZrOCl2，Sc2O3	溶胶凝胶法	等静压成型	1700	12h	Sc	87	+3	0.14	c	1000	0.182198733689321
+462	10.1007/s43207-023-00296-3	ZrOCl2，Sc2O3	溶胶凝胶法	等静压成型	1700	12h	Sc	87	+3	0.15	c	1000	0.137959836408825
+463	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.05	c	1000	0.0602959825158292
+464	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.06	c	1000	0.12157506363846
+465	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.07	c	1000	0.120919670567543
+466	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.08	c	1000	0.143530650510339
+467	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.09	c	1000	0.152050742431406
+468	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.1	c	1000	0.13959831008569
+469	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.11	c	1000	0.101585619977625
+470	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.12	c	1000	0.0953594128051945
+471	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.13	c	1000	0.0734038079324622
+472	10.1007/s43207-023-00296-3	ZrOCl2，Yb2O3	溶胶凝胶法	等静压成型	1700	12h	Yb	98.5	+3	0.14	c	1000	0.0439112097454646
+473	10.1007/s43207-023-00296-3	ZrOCl2，Er2O3	溶胶凝胶法	等静压成型	1700	12h	Er	100.4	+3	0.05	c	1000	0.146152222794007
+474	10.1007/s43207-023-00296-3	ZrOCl2，Er2O3	溶胶凝胶法	等静压成型	1700	12h	Er	100.4	+3	0.06	c	1000	0.135665969661042
+475	10.1007/s43207-023-00296-3	ZrOCl2，Er2O3	溶胶凝胶法	等静压成型	1700	12h	Er	100.4	+3	0.07	c	1000	0.134027495984176
+476	10.1007/s43207-023-00296-3	ZrOCl2，Er2O3	溶胶凝胶法	等静压成型	1700	12h	Er	100.4	+3	0.08	c	1000	0.0947040197342775
+477	10.1007/s43207-023-00296-3	ZrOCl2，Er2O3	溶胶凝胶法	等静压成型	1700	12h	Er	100.4	+3	0.09	c	1000	0.11076110496961
+478	10.1007/s43207-023-00296-3	ZrOCl2，Er2O3	溶胶凝胶法	等静压成型	1700	12h	Er	100.4	+3	0.1	c	1000	0.0727484148615452
+479	10.1007/s43207-023-00296-3	ZrOCl2，Er2O3	溶胶凝胶法	等静压成型	1700	12h	Er	100.4	+3	0.11	c	1000	0.0639006354054459
+480	10.1007/s43207-023-00296-3	ZrOCl2，Y2O3	溶胶凝胶法	等静压成型	1700	12h	Y	101.9	+3	0.05	c	1000	0.146152222794007
+481	10.1007/s43207-023-00296-3	ZrOCl2，Y2O3	溶胶凝胶法	等静压成型	1700	12h	Y	101.9	+3	0.06	c	1000	0.135665969661042
+482	10.1007/s43207-023-00296-3	ZrOCl2，Y2O3	溶胶凝胶法	等静压成型	1700	12h	Y	101.9	+3	0.07	c	1000	0.134027495984176
+483	10.1007/s43207-023-00296-3	ZrOCl2，Y2O3	溶胶凝胶法	等静压成型	1700	12h	Y	101.9	+3	0.08	c	1000	0.0947040197342775
+484	10.1007/s43207-023-00296-3	ZrOCl2，Y2O3	溶胶凝胶法	等静压成型	1700	12h	Y	101.9	+3	0.09	c	1000	0.11076110496961
+485	10.1007/s43207-023-00296-3	ZrOCl2，Y2O3	溶胶凝胶法	等静压成型	1700	12h	Y	101.9	+3	0.1	c	1000	0.0727484148615452
+486	10.1007/s43207-023-00296-3	ZrOCl2，Y2O3	溶胶凝胶法	等静压成型	1700	12h	Y	101.9	+3	0.11	c	1000	0.0639006354054459
+487	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.06	c	1000	0.0186786575190007
+488	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.07	c	1000	0.0383403776430968
+489	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.075	c	1000	0.0530866767365957
+490	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.08	c	1000	0.0865116333490952
+491	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.09	c	1000	0.0842177666013124
+492	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.1	c	1000	0.075042281609328
+493	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.11	c	1000	0.0639006354054459
+494	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.12	c	1000	0.0593129019098803
+495	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.13	c	1000	0.0245771771564002
+496	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.14	c	1000	0.0206448187308983
+497	10.1007/s43207-023-00296-3	ZrOCl2，Gd2O3	溶胶凝胶法	等静压成型	1700	12h	Gd	97	+3	0.15	c	1000	0.0154017101652692
+498	10.1007/s43207-023-00296-3	ZrOCl2，Dy2O3	溶胶凝胶法	等静压成型	1700	12h	Dy	102.7	+3	0.07	c	1000	0.0943700285911506
+499	10.1007/s43207-023-00296-3	ZrOCl2，Dy2O3	溶胶凝胶法	等静压成型	1700	12h	Dy	102.7	+3	0.08	c	1000	0.129171033919975
+500	10.1007/s43207-023-00296-3	ZrOCl2，Dy2O3	溶胶凝胶法	等静压成型	1700	12h	Dy	102.7	+3	0.09	c	1000	0.126221796180244
+501	10.1007/s43207-023-00296-3	ZrOCl2，Dy2O3	溶胶凝胶法	等静压成型	1700	12h	Dy	102.7	+3	0.1	c	1000	0.110885759933644
+502	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	500	0.0003033878638311
+503	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	550	0.000778623422405156
+504	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	600	0.00178782134043327
+505	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	650	0.00372532074657723
+506	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	700	0.00674952775714132
+507	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	750	0.0112281863623472
+508	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	800	0.0171630848681594
+509	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	850	0.024271029106488
+510	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	500	0.000301484552263778
+511	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	550	0.000757991129824073
+512	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	600	0.00179315812055396
+513	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	650	0.00371380507193557
+514	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	700	0.00673062151692524
+515	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	750	0.0112281863623472
+516	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	800	0.0172865602988655
+517	实验室自行制备	ZrO2，Y2O3	固相合成	流延	1400	10h	Y	101.9	+3	0.08	c	850	0.024271029106488
+518	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	600	0.00540611229850944
+519	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	650	0.0111976603812645
+520	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	700	0.0196641840841717
+521	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	750	0.0380297899741057
+522	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	800	0.0468739271773862
+523	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	650	0.0110341908866475
+524	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	700	0.0192571229486714
+525	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	750	0.0312492847849241
+526	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	800	0.047056315999088
+527	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	550	0.00114283241735625
+528	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	600	0.00280222508735753
+529	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	650	0.00572216324722949
+530	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	700	0.0102591922654303
+531	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	750	0.0164560198083076
+532	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	800	0.0245194695143784
+533	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	600	0.00278630335390663
+534	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	650	0.00568897204509939
+535	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	700	0.010174053740406
+536	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	750	0.0161844683263223
+537	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	800	0.0245194695143784
+538	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	750	0.00189915560149591
+539	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	800	0.00299335623140146
+540	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	800	0.00300221755831502
+541	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	550	0.00189238424514763
+542	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	600	0.00546749289821071
+543	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	650	0.018572373236835
+544	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	700	0.0326452539884574
+545	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	750	0.05162917886218
+546	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	800	0.0753949913542946
+547	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	850	0.10325835772436
+548	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	900	0.134748495186399
+549	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	600	0.00545963730496616
+550	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	650	0.018572373236835
+551	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	700	0.0326452539884574
+552	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	750	0.0512116922406529
+553	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	800	0.0748013300050482
+554	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	850	0.102700204439363
+555	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	900	0.134748495186399
+556	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	800	0.047056315999088
+557	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	750	0.0317413995059465
+558	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	700	0.0196641840841717
+559	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	650	0.0111873017685158
+560	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	600	0.00540853005892917
+561	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	550	0.00282162230792478
+562	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	800	0.0771279369383952
+563	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	750	0.051763716066037
+564	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	700	0.0322711033215043
+565	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	650	0.0179995185387153
+566	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	600	0.00881966117077132
+567	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	550	0.00359906378620603
+568	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	800	0.0505856688100046
+569	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	750	0.0326390962497301
+570	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	700	0.0193124064315012
+571	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	650	0.0103229694057408
+572	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	600	0.00731811904550329
+573	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	550	0.00191730864263272
+574	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	800	0.0621733992441784
+575	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	750	0.042290535526497
+576	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	700	0.0263230189533015
+577	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	650	0.0147848012399643
+578	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	600	0.00735649933661802
+579	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	550	0.00312734065267264
+580	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	800	0.0592372152890824
+581	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	750	0.0400556408145224
+582	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	700	0.0253363993103907
+583	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	650	0.0143177609719995
+584	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	600	0.00705086720121517
+585	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	550	0.0029582150768594
+586	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	800	0.048056315999088
+587	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	750	0.0312413995059465
+588	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	700	0.0197641840841717
+589	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	650	0.0121873017685158
+590	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	600	0.00530853005892917
+591	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	5%/5%	c	550	0.00281162230792478
+592	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	800	0.0781279369383952
+593	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	750	0.052763716066037
+594	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	700	0.0323711033215043
+595	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	650	0.0182095185387153
+596	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	600	0.00884966117077132
+597	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	6%/4%	c	550	0.00360806378620603
+598	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	800	0.0507856688100046
+599	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	750	0.0324390962497301
+600	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	700	0.0192124064315012
+601	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	650	0.0113229694057408
+602	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	600	0.00721811904550329
+603	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	7%/3%	c	550	0.00198730864263272
+604	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	800	0.0623733992441784
+605	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	750	0.043290535526497
+606	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	700	0.0263660189533015
+607	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	650	0.0148848012399643
+608	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	600	0.00765649933661802
+609	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	8%/2%	c	550	0.00313734065267264
+610	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	800	0.0592072152890824
+611	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	750	0.0420556408145224
+612	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	700	0.0250363993103907
+613	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	650	0.0146177609719995
+614	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	600	0.00725086720121517
+615	实验室自行制备	ZrO2，Y2O3，Sc2O3	固相合成	干压成型	1400	10h	Sc/Y	87/101.9	+3	9%/1%	c	550	0.0031482150768594
+616	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1100	5h	Y	101.9	+3	0.08	t	850	0.0097
+617	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1100	5h	Y	101.9	+3	0.08	t	800	0.0068
+618	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1100	5h	Y	101.9	+3	0.08	t	750	0.0043
+619	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1100	5h	Y	101.9	+3	0.08	t	700	0.0026
+620	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1100	5h	Y	101.9	+3	0.08	t	650	0.0015
+621	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1350	5h	Y	101.9	+3	0.08	t	850	0.0097
+622	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1350	5h	Y	101.9	+3	0.08	t	850	0.0098
+623	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1350	5h	Y	101.9	+3	0.08	t	800	0.0062
+624	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1350	5h	Y	101.9	+3	0.08	t	750	0.0038
+625	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1350	5h	Y	101.9	+3	0.08	t	700	0.0022
+626	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1350	5h	Y	101.9	+3	0.08	t	650	0.0012
+627	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	800	0.009
+628	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	750	0.0058
+629	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	700	0.0035
+630	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	650	0.002
+631	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	600	0.0011
+632	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	600	0.001
+633	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	800	0.0059
+634	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	750	0.0038
+635	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	700	0.0024
+636	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	850	0.0270156111443978
+637	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	850	0.0269941871863134
+638	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	800	0.0188376701947655
+639	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	800	0.0187960629718063
+640	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	750	0.0119186519754696
+641	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	750	0.011897822454366
+642	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	700	0.00713619917021827
+643	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	700	0.00713320830719639
+644	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	650	0.00395075093337293
+645	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	650	0.00385631245518763
+646	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	600	0.00198969312847447
+647	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	600	0.00201812237160972
+648	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	550	0.000923360098791297
+649	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	550	0.000887628622439729
+650	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	500	0.000386858393475863
+651	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；
+Bicine，上海阿拉丁，99.5%"	水热合成	真空抽滤	1100	5h	Y	101.9	+3	0.08	t	500	0.000386867186911183
+652	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	850	0.0215140277757787
+653	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	850	0.0219730004203832
+654	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	800	0.0145962520283091
+655	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	800	0.0146662362727554
+656	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	750	0.00941818808822213
+657	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	750	0.0093522291473041
+658	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	700	0.0056094385201669
+659	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	650	0.00305312140013664
+660	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	650	0.00284697231063529
+661	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	600	0.00145855081181459
+662	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	550	0.000673658788045884
+663	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	550	0.000664580305985012
+664	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%;
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯；"	水热合成	干压成型	1400	5h	Y	101.9	+3	0.08	t	500	0.000256919373232785
+665	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	850	0.0209271200787148
+666	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	850	0.0209841570655028
+667	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	800	0.0138117227113958
+668	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	750	0.00876793588844278
+669	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	750	0.00867322225670633
+670	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	700	0.00495980889311681
+671	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	650	0.00277578088175837
+672	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	650	0.0027310696092457
+673	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	600	0.00124723140273614
+674	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	550	0.000593604929361101
+675	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/1%	t	500	0.000213627003958512
+676	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	850	0.0261229484870261
+677	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	850	0.0260764081281709
+678	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	800	0.0171411693407121
+679	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	800	0.017220461253539
+680	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	750	0.00985997642109191
+681	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	750	0.00987750591735527
+682	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	700	0.0057114803560439
+683	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	700	0.00572315969759609
+684	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	650	0.00293172583335718
+685	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	650	0.00292675163747575
+686	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	600	0.00138821531405318
+687	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	600	0.00138325856719121
+688	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	550	0.000585854612576512
+689	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	550	0.000587912314851381
+690	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	500	0.000214907915259704
+691	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/2%	t	500	0.00021210425071441
+692	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.0469321680203897
+693	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.0469475041297188
+694	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.0328516368058707
+695	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.032813216661117
+696	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.0214214863802863
+697	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.0214238888171771
+698	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.0128771797345399
+699	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.0129098209702854
+700	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.00708324377117474
+701	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.00707433443475858
+702	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.0034040141487338
+703	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.00345249574381426
+704	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.00150446813123595
+705	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.00152098980680424
+706	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000581896387762957
+707	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000589915087043899
+708	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	850	0.0377189890131618
+709	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	850	0.0377221646805172
+710	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	800	0.0264418378321635
+711	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	800	0.0264173113949976
+712	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	750	0.017328567497632
+713	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	750	0.01731864688161
+714	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	700	0.0103973690250639
+715	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	700	0.0104247662356781
+716	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	650	0.0056600448773256
+717	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	650	0.0056651549028
+718	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	600	0.00274112360910779
+719	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	600	0.00278242459985558
+720	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	550	0.00122483028928151
+721	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	550	0.00122628323246885
+722	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	500	0.000470383343903345
+723	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Y/Sc	101.9/87	+3	8%/4%	c	500	0.000471093550187953
+724	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.0763072795802251
+725	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.0765276895053023
+726	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.0518748032721999
+727	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.0502921459199502
+728	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.0337404502105308
+729	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.0337195180013322
+730	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.0203191775784245
+731	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.0202979023875797
+732	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.0113010840236312
+733	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.011342541640249
+734	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.00565202252881318
+735	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.00563961525803781
+736	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.00243473363379314
+737	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.00237990866724346
+738	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000937451925155068
+739	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	真空抽滤	1400	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000873786740688648
+740	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	850	0.0709143343539892
+741	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	850	0.0710302232970428
+742	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	800	0.0546815053461853
+743	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	800	0.0545777217429629
+744	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	750	0.0385422948979467
+745	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	750	0.0360179281462158
+746	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	700	0.0248939490937881
+747	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	700	0.0228561447731887
+748	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	650	0.0146226975079645
+749	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	650	0.0144791010961244
+750	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	600	0.00719430128749137
+751	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	600	0.00662195187030556
+752	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	550	0.00294471446947281
+753	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	550	0.00269484290669787
+754	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	500	0.000879571140440782
+755	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	850	0.108224649671048
+756	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	850	0.102639478741475
+757	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	800	0.0721377770425468
+758	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	800	0.0721551752951247
+759	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	750	0.0550107524524981
+760	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	750	0.0554413150514066
+761	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	700	0.0372849050732066
+762	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	700	0.0360236705465341
+763	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	650	0.0227963721377638
+764	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	650	0.0229923880256381
+765	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	600	0.0117045792363306
+766	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	600	0.0110393864786103
+767	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	550	0.00470093997756058
+768	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	550	0.00465791447114332
+769	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	500	0.00107829952059489
+770	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	500	0.0010523442013427
+771	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	850	0.0685592577591577
+772	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	850	0.0686081032900914
+773	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	800	0.0534923830428692
+774	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	800	0.0535671360429189
+775	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	750	0.038772488004201
+776	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	750	0.038719911909415
+777	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	700	0.0256523348926512
+778	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	700	0.0256381717106431
+779	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	650	0.0151043498347048
+780	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	650	0.0150923438284223
+781	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	600	0.00777946691496421
+782	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	600	0.00773812136770122
+783	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	550	0.00339996246167565
+784	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	550	0.00335878270701974
+785	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	500	0.00120915099329798
+786	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	500	0.00118875596015567
+787	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	850	0.0717731407627103
+788	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	850	0.0719097667764031
+789	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	800	0.0603450708447631
+790	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	800	0.0603472072368119
+791	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	750	0.0468948603894734
+792	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	750	0.046855812135512
+793	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	700	0.0329217313501096
+794	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	700	0.0329920298951787
+795	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	650	0.0201716128752165
+796	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	650	0.0201112187321531
+797	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	600	0.0100979967065926
+798	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c	600	0.0100165146699706
+799	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	550	0.00374917901541093
+800	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	550	0.00373288356849052
+801	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	500	0.000645149148471213
+802	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1400	5h	Sc	87	+3	0.11	c/r	500	0.000639025976986009
+803	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.0208439802425393
+804	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.0207214350295227
+805	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.0138266303096805
+806	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.013768947041511
+807	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.00861772169575951
+808	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.00861173373407107
+809	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.00499218643844
+810	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.00499186748880238
+811	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.00264482127412125
+812	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.00263055175011851
+813	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.00126296721420639
+814	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.00125856359435825
+815	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.000540447028278127
+816	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.000532389364941617
+817	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000200101308757387
+818	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1200	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000199590643936395
+819	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.017661868670737
+820	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.0176911569103516
+821	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.0116890150307972
+822	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.0116983729811171
+823	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.00722030539339735
+824	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.00725107117292334
+825	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.00417692088573055
+826	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.0041834884144262
+827	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.00219645445091094
+828	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.00219502411089886
+829	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.00104121591071316
+830	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.00104114592978166
+831	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.000443453367974253
+832	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.000436397498191361
+833	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000168235657928974
+834	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1300	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000167226206287895
+835	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.0306957951114823
+836	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	850	0.0306556725996402
+837	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.0207098618601248
+838	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	800	0.020677771512483
+839	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.0130150850428415
+840	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	750	0.0129946241336491
+841	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.00753609823459594
+842	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	700	0.00753102578316694
+843	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.00395520168013713
+844	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	650	0.00393435909588965
+845	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.00184034724917024
+846	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	600	0.00183813912584513
+847	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.000754330672955414
+848	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	550	0.000748420030147112
+849	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000268861025757295
+850	实验室自制	"ZrOCl2·8H2O，上海阿拉丁，99%；
+Y(NO3)3·6H2O，Adamas，99.9%；Sc(NO3)3·xH2O，adamas，99.99%；
+四甲基氢氧化铵（TMAOH），上海阿拉丁，25wt%水溶液，分析纯"	水热合成	干压成型	1500	5h	Y/Sc	101.9/87	+3	8%/3%	c	500	0.000268641655851166
+851	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	450	0.00028108002227102
+852	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	450	0.00028716748484816
+853	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	500	0.000697527143633226
+854	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	500	0.000717746657192711
+855	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	550	0.00177244070653838
+856	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	550	0.0017804340218357
+857	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	600	0.00381143794301676
+858	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	600	0.00383405030671265
+859	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	650	0.00743925578399521
+860	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	650	0.00744093989185201
+861	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	700	0.0130545209286978
+862	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	700	0.0130838356910942
+863	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	750	0.0211227171550272
+864	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	750	0.0211352504711486
+865	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	800	0.0317554896758106
+866	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	800	0.0317890543575742
+867	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	850	0.0447575269484992
+868	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1500	5h	Y	101.9	+3	0.08	m/t	850	0.0447868696284328
+869	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	550	0.000101783467189388
+870	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	550	0.000101615806507291
+871	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	650	0.000342174347096908
+872	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	650	0.000341774410772939
+873	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	700	0.000710235797825154
+874	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	700	0.000708434983486847
+875	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	750	0.00129497799739565
+876	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	750	0.0012927926864932
+877	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	800	0.00222039768201256
+878	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	800	0.00221950771161352
+879	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	850	0.00343792518423031
+880	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/3%	m/t	850	0.00347466724846509
+881	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	500	7.17503689291589e-05
+882	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	550	0.000102189887773054
+883	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	550	0.000102023879950637
+884	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	600	0.000180465311378477
+885	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	600	0.000179961710576584
+886	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	650	0.000345278407380707
+887	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	650	0.000345198763544659
+888	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	700	0.000747193622163544
+889	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	700	0.000745103701738695
+890	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	750	0.00141121683233154
+891	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	750	0.00140998747014246
+892	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	800	0.00251688936754302
+893	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	800	0.00251324310335111
+894	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	850	0.00410343736533167
+895	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/5%	m/t	850	0.00414236848711299
+896	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	450	0.000101630473135576
+897	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	450	0.000101599469619742
+898	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	500	0.000225579619070861
+899	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	500	0.000227069500942637
+900	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	550	0.000400850224869672
+901	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	550	0.000403355781934994
+902	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	600	0.000753827597045186
+903	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	600	0.000753533760431736
+904	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	650	0.00178077951126316
+905	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	650	0.00177627043979684
+906	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	700	0.00422732367396089
+907	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	700	0.00421677032554088
+908	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	750	0.00842961526428419
+909	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	750	0.00843433443655171
+910	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	800	0.0145746381871544
+911	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	800	0.0145775574363674
+912	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	850	0.0226057157945285
+913	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铋	固相合成	干压成型	1500	5h	Y/Bi	101.9/96	+3	8%/10%	m/t	850	0.0227196636700469
+914	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	800	0.021235
+915	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	800	0.020765
+916	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	800	0.020987
+917	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	800	0.020138
+918	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	800	0.018347
+919	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	800	0.0183489
+920	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	800	0.019387
+921	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	750	0.011652
+922	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	750	0.012476
+923	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	750	0.012312
+924	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	750	0.011873
+925	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	750	0.011962
+926	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	700	0.007154
+927	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	700	0.004232
+928	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	700	0.006712
+929	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	700	0.006341
+930	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	700	0.006783
+931	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	650	0.003871
+932	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	650	0.003981
+933	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	650	0.003989
+934	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	650	0.004102
+935	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	650	0.004016
+936	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	600	0.001987
+937	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	600	0.002038
+938	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	600	0.001879
+939	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	600	0.001983
+940	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1450	4h	Y	101.9	+3	0.08	c/t	600	0.001832
+941	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	800	0.019322
+942	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	800	0.01987
+943	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	800	0.019321
+944	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	800	0.020392
+945	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	750	0.012238
+946	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	750	0.012387
+947	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	750	0.012763
+948	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	700	0.006832
+949	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	700	0.006321
+950	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	650	0.004398
+951	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	650	0.003821
+952	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	650	0.003897
+953	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	650	0.003754
+954	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	600	0.002319
+955	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	600	0.001983
+956	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	600	0.002219
+957	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1300	4h	Y	101.9	+3	0.08	c/t	600	0.001978
+958	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	800	0.018732
+959	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	800	0.019348
+960	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	800	0.019234
+961	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	800	0.018983
+962	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	800	0.019234
+963	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	750	0.011382
+964	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	750	0.011324
+965	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	750	0.011897
+966	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	750	0.0123847
+967	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	750	0.012134
+968	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO-L	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	700	0.007823
+969	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	700	0.007828
+970	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	700	0.005877
+971	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	700	0.006983
+972	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	650	0.003892
+973	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	650	0.003982
+974	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	650	0.0039284
+975	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	650	0.003782
+976	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	600	0.001934
+977	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	600	0.002031
+978	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1200	4h	Y	101.9	+3	0.08	c/t	600	0.001132
+979	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	800	0.01893
+980	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	800	0.01844
+981	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	800	0.018932
+982	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	800	0.01893
+983	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	800	0.017823
+984	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	750	0.01032
+985	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	750	0.011023
+986	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	750	0.01132
+987	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	750	0.010329
+988	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	750	0.011234
+989	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	700	0.007012
+990	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	700	0.007102
+991	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	700	0.007012
+992	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	700	0.007054
+993	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	700	0.006923
+994	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	700	0.006872
+995	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	700	0.006873
+996	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	650	0.004243
+997	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	650	0.003923
+998	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	650	0.003821
+999	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	650	0.003792
+1000	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	600	0.002391
+1001	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	600	0.0018273
+1002	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	600	0.0019238
+1003	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	600	0.001876
+1004	实验室自制	氧化锆，200nm；TMPTA；HDDA；EDA；BYK-110；TPO	商品化	3D打印成型	1100	4h	Y	101.9	+3	0.08	m/c	600	0.0019223
+1005	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铟；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	In/Ce/Sc/Y/Yb	80/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	800	0.0404616033206171
+1006	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铟；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	In/Ce/Sc/Y/Yb	80/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	750	0.0267550981307062
+1007	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铟；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	In/Ce/Sc/Y/Yb	80/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	700	0.0163454159109778
+1008	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铟；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	In/Ce/Sc/Y/Yb	80/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	650	0.00844536459386704
+1009	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铟；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	In/Ce/Sc/Y/Yb	80/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	600	0.00380155225653853
+1010	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铟；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	In/Ce/Sc/Y/Yb	80/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	550	0.00155867243609576
+1011	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	Al/Ce/Sc/Y/Yb	54/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	800	0.024501370004348
+1012	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	Al/Ce/Sc/Y/Yb	54/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	750	0.0163642483471217
+1013	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	Al/Ce/Sc/Y/Yb	54/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	700	0.0101328749242919
+1014	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	Al/Ce/Sc/Y/Yb	54/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	650	0.00554784249775574
+1015	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	Al/Ce/Sc/Y/Yb	54/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	600	0.00268896099600591
+1016	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化镱	固相合成	干压成型	1400	10h	Al/Ce/Sc/Y/Yb	54/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	550	0.00120518261875095
+1017	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化铒	固相合成	干压成型	1400	10h	Er/Ce/Sc/Y/Yb	100.4/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	800	0.014787055447884
+1018	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化铒	固相合成	干压成型	1400	10h	Er/Ce/Sc/Y/Yb	100.4/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	750	0.0086417856513608
+1019	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化铒	固相合成	干压成型	1400	10h	Er/Ce/Sc/Y/Yb	100.4/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	700	0.0051093484271144
+1020	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化铒	固相合成	干压成型	1400	10h	Er/Ce/Sc/Y/Yb	100.4/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	650	0.00275703081102396
+1021	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化铒	固相合成	干压成型	1400	10h	Er/Ce/Sc/Y/Yb	100.4/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	600	0.00135913702002058
+1022	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铝；氧化铈；氧化钪；氧化铒	固相合成	干压成型	1400	10h	Er/Ce/Sc/Y/Yb	100.4/105.3/87/101.9/98.5	+3/+4/+3/+3/+3	2%/2%/2%/2%/2%	c	550	0.000589786101023529
+1023	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	1%/6%/4%	c	850	0.0418765349575739
+1024	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	1%/6%/4%	c	800	0.0298123241040591
+1025	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	1%/6%/4%	c	750	0.0198570766022964
+1026	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	1%/6%/4%	c	700	0.0122269401465895
+1027	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	1%/6%/4%	c	650	0.00682927693341724
+1028	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	1%/6%/4%	c	600	0.00336840545071837
+1029	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	1%/6%/4%	c	550	0.00140085719675359
+1030	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	1%/6%/4%	c	500	0.000526804638122289
+1031	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	2%/6%/4%	c	850	0.0572034822748128
+1032	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	2%/6%/4%	c	800	0.0411162503440734
+1033	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	2%/6%/4%	c	750	0.0265942616759455
+1034	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	2%/6%/4%	c	700	0.0164304480599713
+1035	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	2%/6%/4%	c	650	0.00910658218594393
+1036	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	2%/6%/4%	c	600	0.004490822160294
+1037	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	2%/6%/4%	c	550	0.00199355732509075
+1038	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	2%/6%/4%	c	500	0.000742996049723294
+1039	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	3%/6%/4%	c	850	0.0545939893099511
+1040	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	3%/6%/4%	c	800	0.0365676720849672
+1041	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	3%/6%/4%	c	700	0.015604562161862
+1042	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc/Y	105.3/87/101.9	+4/+3/+3	3%/6%/4%	c	650	0.00829423660700398
+1043	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钛；氧化钪	固相合成	干压成型	1400	10h	Ti/Sc/Y	61/87/101.9	+4/+3/+3	1%/6%/4%	c	850	0.0620683343039698
+1044	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钛；氧化钪	固相合成	干压成型	1400	10h	Ti/Sc/Y	61/87/101.9	+4/+3/+3	1%/6%/4%	c	800	0.0439597640577151
+1045	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钛；氧化钪	固相合成	干压成型	1400	10h	Ti/Sc/Y	61/87/101.9	+4/+3/+3	1%/6%/4%	c	700	0.0179117112537455
+1046	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钛；氧化钪	固相合成	干压成型	1400	10h	Ti/Sc/Y	61/87/101.9	+4/+3/+3	1%/6%/4%	c	650	0.00492778035918362
+1047	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铌；氧化钪	固相合成	干压成型	1400	10h	Nb/Sc/Y	64/87/101.9	+5/+3/+3	1%/6%/4%	c	850	0.0437064508814152
+1048	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铌；氧化钪	固相合成	干压成型	1400	10h	Nb/Sc/Y	64/87/101.9	+5/+3/+3	1%/6%/4%	c	800	0.0299996940961193
+1049	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铌；氧化钪	固相合成	干压成型	1400	10h	Nb/Sc/Y	64/87/101.9	+5/+3/+3	1%/6%/4%	c	700	0.0118848015609346
+1050	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化铌；氧化钪	固相合成	干压成型	1400	10h	Nb/Sc/Y	64/87/101.9	+5/+3/+3	1%/6%/4%	c	650	0.00317684029192172
+1051	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	4%/1%/5.7%/3.8%	c	800	0.0383086006539825
+1052	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	4%/1%/5.7%/3.8%	c	750	0.0240525172657832
+1053	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	4%/1%/5.7%/3.8%	c	700	0.0135126501493164
+1054	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	4%/1%/5.7%/3.8%	c	650	0.00674587041303398
+1055	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	4%/1%/5.7%/3.8%	c	600	0.0027583162002045
+1056	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	8%/2%/5.4%/3.6%	c	800	0.09908
+1057	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	8%/2%/5.4%/3.6%	c	750	0.07484
+1058	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	8%/2%/5.4%/3.6%	c	700	0.02086
+1059	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	8%/2%/5.4%/3.6%	c	650	0.01521
+1060	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	8%/2%/5.4%/3.6%	c	600	0.00716
+1061	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	12%/3%/5.1%/3.4%	c	800	0.14823
+1062	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	12%/3%/5.1%/3.4%	c	750	0.09244
+1063	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	12%/3%/5.1%/3.4%	c	700	0.07272
+1064	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	12%/3%/5.1%/3.4%	c	650	0.0311
+1065	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	16%/4%/4.8%/3.2%	c	800	0.16603
+1066	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	16%/4%/4.8%/3.2%	c	750	0.14113
+1067	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	16%/4%/4.8%/3.2%	c	700	0.10465
+1068	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	16%/4%/4.8%/3.2%	c	650	0.03928
+1069	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪；氧化铋；氧化铒	固相合成	干压成型	1000	5h	Bi/Er/Sc/Y	96/100.4/87/101.9	+3/+3/+3/+3	16%/4%/4.8%/3.2%	c	600	0.00483
+1070	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	9%/1%	c	800	0.0592372152890824
+1071	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	9%/1%	c	750	0.0400556408145224
+1072	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	9%/1%	c	700	0.0253363993103907
+1073	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	9%/1%	c	650	0.0143177609719995
+1074	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	9%/1%	c	600	0.00705086720121517
+1075	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	9%/1%	c	550	0.0029582150768594
+1076	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	8%/2%	c	800	0.0621733992441784
+1077	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	8%/2%	c	750	0.042290535526497
+1078	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	8%/2%	c	700	0.0263230189533015
+1079	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	8%/2%	c	650	0.0147848012399643
+1080	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	8%/2%	c	600	0.00735649933661802
+1081	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	8%/2%	c	550	0.00312734065267264
+1082	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	7%/3%	c	800	0.0505856688100046
+1083	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	7%/3%	c	750	0.0326390962497301
+1084	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	7%/3%	c	700	0.0193124064315012
+1085	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	7%/3%	c	650	0.0103229694057408
+1086	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	7%/3%	c	600	0.00731811904550329
+1087	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	7%/3%	c	550	0.00191730864263272
+1088	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	6%/4%	c	800	0.0771279369383952
+1089	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	6%/4%	c	750	0.051763716066037
+1090	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	6%/4%	c	700	0.0322711033215043
+1091	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	6%/4%	c	650	0.0179995185387153
+1092	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	6%/4%	c	600	0.00881966117077132
+1093	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	6%/4%	c	550	0.00359906378620603
+1094	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	5%/5%	c	800	0.047056315999088
+1095	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	5%/5%	c	750	0.0317413995059465
+1096	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	5%/5%	c	700	0.0196641840841717
+1097	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	5%/5%	c	650	0.0111873017685158
+1098	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	5%/5%	c	600	0.00540853005892917
+1099	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	5%/5%	c	550	0.00282162230792478
+1100	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	4%/6%	c	850	0.042856959956978
+1101	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	4%/6%	c	800	0.0273254832562178
+1102	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	4%/6%	c	750	0.0161509595314528
+1103	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	4%/6%	c	700	0.00827682259007405
+1104	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	4%/6%	c	650	0.00438358484071017
+1105	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	4%/6%	c	600	0.00193369091997322
+1106	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	4%/6%	c	550	0.000728949835232634
+1107	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	4%/6%	c	500	0.00024346491028087
+1108	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	3%/7%	c	850	0.0534785020853799
+1109	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	3%/7%	c	800	0.038735511566174
+1110	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	3%/7%	c	750	0.0256753842046502
+1111	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	3%/7%	c	700	0.0156315611664221
+1112	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	3%/7%	c	650	0.00870606212669501
+1113	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	3%/7%	c	600	0.00437127002031684
+1114	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	3%/7%	c	550	0.00200533675127141
+1115	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	3%/7%	c	500	0.000789862292630122
+1116	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	2%/8%	c	850	0.0543295676957056
+1117	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	2%/8%	c	800	0.0383651891284041
+1118	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	2%/8%	c	750	0.0254082471657635
+1119	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	2%/8%	c	700	0.0154537134565315
+1120	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	2%/8%	c	650	0.00847406924704309
+1121	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	2%/8%	c	600	0.00417537895894915
+1122	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	2%/8%	c	550	0.00191736516296733
+1123	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	2%/8%	c	500	0.000741481059116271
+1124	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	1%/9%	c	850	0.0514178778453817
+1125	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	1%/9%	c	800	0.0335269015911234
+1126	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	1%/9%	c	750	0.0208990979121216
+1127	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	1%/9%	c	700	0.0118819590376781
+1128	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	1%/9%	c	650	0.00589406978738514
+1129	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	1%/9%	c	600	0.00246885841483273
+1130	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	1%/9%	c	550	0.000883700017565474
+1131	实验室自制	氧化锆，200nm；氧化钇，200nm；氧化钪	固相合成	干压成型	1400	10h	Y/Sc	101.9/87	+3/+3	1%/9%	c	500	0.000268569994756407
+1132	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	9%/1%	c	850	0.0919000183496163
+1133	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	9%/1%	c	800	0.0687507721239546
+1134	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	9%/1%	c	750	0.0482379039683847
+1135	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	9%/1%	c	700	0.0313135764472786
+1136	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	9%/1%	c	650	0.018190328986788
+1137	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	9%/1%	c	600	0.00924354882307503
+1138	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	9%/1%	c	550	0.00375262937140213
+1139	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	8%/2%	c	500	0.00114750384575787
+1140	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	8%/2%	c	850	0.0676870470350197
+1141	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	8%/2%	c	800	0.0504566191720313
+1142	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	8%/2%	c	750	0.0352824488371319
+1143	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	8%/2%	c	700	0.0227354300451874
+1144	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	8%/2%	c	650	0.0131762971840162
+1145	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	8%/2%	c	600	0.00672845835121088
+1146	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	8%/2%	c	550	0.00297577048762614
+1147	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	8%/2%	c	500	0.00108428989109235
+1148	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	7%/3%	c	850	0.0525907637964019
+1149	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	7%/3%	c	800	0.0357068585128448
+1150	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	7%/3%	c	750	0.0230357919162348
+1151	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	7%/3%	c	700	0.0137264438809461
+1152	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	7%/3%	c	650	0.00715853846146937
+1153	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	7%/3%	c	600	0.00325015225099182
+1154	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	7%/3%	c	550	0.00123978018316872
+1155	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	7%/3%	c	500	0.000381299871955347
+1156	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	6%/4%	c	850	0.0245215603431938
+1157	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	6%/4%	c	800	0.0174945370260099
+1158	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	6%/4%	c	750	0.0118268312104673
+1159	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	6%/4%	c	700	0.00739090446622535
+1160	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	6%/4%	c	650	0.00414268800681506
+1161	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	6%/4%	c	600	0.00218757459868014
+1162	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	6%/4%	c	550	0.000997713722968335
+1163	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	6%/4%	c	500	0.000388170120859838
+1164	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	5%/5%	c	850	0.0341550164406404
+1165	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	5%/5%	c	800	0.0244495315428815
+1166	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	5%/5%	c	750	0.0165666115473459
+1167	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	5%/5%	c	700	0.0103769370553669
+1168	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	5%/5%	c	650	0.00601360325493726
+1169	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	5%/5%	c	600	0.0031359181761522
+1170	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	5%/5%	c	550	0.00144377006355407
+1171	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	5%/5%	c	500	0.000583637918298856
+1172	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	4%/6%	c	850	0.0155154282020179
+1173	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	4%/6%	c	800	0.0100559684902166
+1174	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	4%/6%	c	750	0.00640162224260551
+1175	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	4%/6%	c	700	0.00358766104183208
+1176	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	4%/6%	c	650	0.00200011812536217
+1177	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	4%/6%	c	600	0.000950633510853428
+1178	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	4%/6%	c	550	0.00041634286264282
+1179	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	4%/6%	c	500	0.000156968721316716
+1180	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	3%/7%	c	850	0.00668837681748827
+1181	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	3%/7%	c	800	0.00469499843599581
+1182	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	3%/7%	c	750	0.00316124214111515
+1183	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	3%/7%	c	700	0.00201502411804348
+1184	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	3%/7%	c	650	0.00119890963011614
+1185	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	3%/7%	c	600	0.00065943271705144
+1186	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	3%/7%	c	550	0.000328030964172212
+1187	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	3%/7%	c	500	0.000143937090523918
+1188	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	2%/8%	c	850	0.011202882406675
+1189	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	2%/8%	c	800	0.00785293401344881
+1190	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	2%/8%	c	750	0.00527167524533236
+1191	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	2%/8%	c	700	0.00333536411021287
+1192	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	2%/8%	c	650	0.00195608580856841
+1193	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	2%/8%	c	600	0.00105692767623631
+1194	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	2%/8%	c	550	0.000515574476212833
+1195	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	2%/8%	c	500	0.00021733554104303
+1196	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	850	0.0031230199631404
+1197	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	800	0.00209006327234422
+1198	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	750	0.00136412709562269
+1199	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	700	0.000812326504073677
+1200	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	650	0.000445410487626915
+1201	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	600	0.000227432779109555
+1202	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	550	0.000104228396315851
+1203	实验室自制	氧化锆，200nm；氧化铈；氧化钪	固相合成	干压成型	1400	10h	Ce/Sc	105.3/87	+4/+3	1%/9%	c	500	4.23068659538905e-05
+1204	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	9%/1%	c	850	0.0502882598609246
+1205	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	9%/1%	c	800	0.0370889222258225
+1206	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	9%/1%	c	750	0.025735011708098
+1207	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	9%/1%	c	700	0.016541209143735
+1208	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	9%/1%	c	650	0.00953756343707583
+1209	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	9%/1%	c	600	0.00476692832494346
+1210	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	9%/1%	c	550	0.001897479359542
+1211	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	9%/1%	c	500	0.00054878329217358
+1212	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	8%/2%	c	850	0.0414242155845202
+1213	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	8%/2%	c	800	0.0300137085863248
+1214	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	8%/2%	c	750	0.0204586318712484
+1215	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	8%/2%	c	700	0.0128431634510626
+1216	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	8%/2%	c	650	0.00725971083355125
+1217	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	8%/2%	c	600	0.0036461230687779
+1218	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	8%/2%	c	550	0.00155261754595415
+1219	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	8%/2%	c	500	0.000523758536961358
+1220	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	7%/3%	c	850	0.0348761704334248
+1221	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	7%/3%	c	800	0.0236076177893457
+1222	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	7%/3%	c	750	0.0147142760595141
+1223	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	7%/3%	c	700	0.00850836414067248
+1224	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	7%/3%	c	650	0.00457016901066614
+1225	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	7%/3%	c	600	0.00240001895489304
+1226	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	7%/3%	c	550	0.000912606739210303
+1227	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	7%/3%	c	500	0.000322318509216542
+1228	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	6%/4%	c	850	0.0468789945189886
+1229	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	6%/4%	c	800	0.0344359699738057
+1230	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	6%/4%	c	750	0.0232675472795984
+1231	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	6%/4%	c	700	0.0144083556375756
+1232	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	6%/4%	c	650	0.00811076008804305
+1233	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	6%/4%	c	600	0.00396858396141981
+1234	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	6%/4%	c	550	0.00168332255458547
+1235	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	6%/4%	c	500	0.000618081512350358
+1236	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	5%/5%	c	850	0.0334255175008372
+1237	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	5%/5%	c	800	0.0234764948475776
+1238	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	5%/5%	c	750	0.0155046870514088
+1239	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	5%/5%	c	700	0.00945848177955417
+1240	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	5%/5%	c	650	0.00518986770187084
+1241	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	5%/5%	c	600	0.00251781266101025
+1242	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	5%/5%	c	550	0.00105802424218733
+1243	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	5%/5%	c	500	0.000392919913765263
+1244	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	4%/6%	c	850	0.0333624309292467
+1245	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	4%/6%	c	800	0.0247157945357071
+1246	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	4%/6%	c	750	0.0154699284794715
+1247	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	4%/6%	c	700	0.00870963910581905
+1248	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	4%/6%	c	650	0.00420855800779555
+1249	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	4%/6%	c	600	0.00169333000923945
+1250	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	4%/6%	c	550	0.000689556042815733
+1251	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	4%/6%	c	500	0.000195135584788779
+1252	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	3%/7%	c	850	0.0353233146308126
+1253	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	3%/7%	c	800	0.0238216529911941
+1254	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	3%/7%	c	750	0.0164245130896202
+1255	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	3%/7%	c	700	0.0100430893659111
+1256	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	3%/7%	c	650	0.00564070847124149
+1257	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	3%/7%	c	600	0.00282746915548861
+1258	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	3%/7%	c	550	0.00125034445920982
+1259	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	3%/7%	c	500	0.000476939903504546
+1260	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	2%/8%	c	850	0.0275250262730779
+1261	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	2%/8%	c	800	0.0192538846412119
+1262	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	2%/8%	c	750	0.012727737712739
+1263	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	2%/8%	c	700	0.00779160543275768
+1264	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	2%/8%	c	650	0.00432974113775767
+1265	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	2%/8%	c	600	0.00215288051649735
+1266	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	2%/8%	c	550	0.000966417358924917
+1267	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	2%/8%	c	500	0.000370465673064758
+1268	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	1%/9%	c	800	0.0183419081584055
+1269	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	1%/9%	c	750	0.0100216919344163
+1270	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	1%/9%	c	700	0.00540169195265041
+1271	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	1%/9%	c	650	0.00243703674831961
+1272	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	1%/9%	c	600	0.000965449857488902
+1273	实验室自制	氧化锆，200nm；氧化镱；氧化钪	固相合成	干压成型	1400	10h	Yb/Sc	98.5/87	+3/+3	1%/9%	c	550	0.000309552547429823
+1274	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	9%/1%	c	800	0.0348554522870415
+1275	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	9%/1%	c	750	0.0228855193841963
+1276	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	9%/1%	c	700	0.0137557881218377
+1277	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	9%/1%	c	650	0.00772936411894128
+1278	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	9%/1%	c	600	0.00384504092493821
+1279	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	9%/1%	c	550	0.00133461262778025
+1280	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	8%/2%	c	800	0.0534809478920302
+1281	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	8%/2%	c	750	0.034723861819753
+1282	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	8%/2%	c	700	0.0213162496936206
+1283	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	8%/2%	c	650	0.0113444434922488
+1284	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	8%/2%	c	600	0.0056883819220393
+1285	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	8%/2%	c	550	0.00227535276881572
+1286	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	7%/3%	c	800	0.0399592110801809
+1287	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	7%/3%	c	750	0.0250577552815301
+1288	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	7%/3%	c	700	0.0146144866769556
+1289	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	7%/3%	c	650	0.00844050704219961
+1290	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	7%/3%	c	600	0.00409384701672377
+1291	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	7%/3%	c	550	0.00156917449903907
+1292	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	6%/4%	c	800	0.0289230442646506
+1293	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	6%/4%	c	750	0.0154454254352948
+1294	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	6%/4%	c	700	0.0096025430280085
+1295	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	6%/4%	c	650	0.00377060056850349
+1296	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	6%/4%	c	600	0.00168538820760536
+1297	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	6%/4%	c	550	0.000515509272240559
+1298	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	5%/5%	c	800	0.0323393615198461
+1299	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	5%/5%	c	750	0.0170045284078538
+1300	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	5%/5%	c	700	0.00868517203898711
+1301	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	5%/5%	c	650	0.00339444884952005
+1302	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	5%/5%	c	600	0.00192810551658919
+1303	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	5%/5%	c	550	0.000378221000549424
+1304	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	4%/6%	c	800	0.0286144530030586
+1305	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	4%/6%	c	750	0.0178359146521307
+1306	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	4%/6%	c	700	0.0099684435273813
+1307	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	4%/6%	c	650	0.0050072290819452
+1308	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	4%/6%	c	600	0.00241445303566884
+1309	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	4%/6%	c	550	0.00116639559162028
+1310	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	3%/7%	c	800	0.0290039695071796
+1311	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	3%/7%	c	750	0.0137893565101702
+1312	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	3%/7%	c	700	0.0090374687594835
+1313	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	3%/7%	c	650	0.00471025438492594
+1314	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	3%/7%	c	600	0.00221960375702561
+1315	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	3%/7%	c	550	0.00102227105640059
+1316	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	2%/8%	c	800	0.0111288820286489
+1317	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	2%/8%	c	750	0.00561613997729373
+1318	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	2%/8%	c	700	0.00249619783820163
+1319	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	2%/8%	c	650	0.00104409147759688
+1320	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	2%/8%	c	600	0.000415370931412864
+1321	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	2%/8%	c	550	0.000136352917648886
+1322	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	1%/9%	c	800	0.0172182937719927
+1323	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	1%/9%	c	750	0.0107880050485016
+1324	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	1%/9%	c	700	0.00651300677462334
+1325	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	1%/9%	c	650	0.0033078677940516
+1326	实验室自制	氧化锆，200nm；氧化镝；氧化钪	固相合成	干压成型	1400	10h	Dy/Sc	102.7/87	+3/+3	1%/9%	c	550	0.000708031121346629
+1327	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1400	10h	Y	101.9	+3	0.1	c	800	0.0130738368537714
+1328	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1400	10h	Y	101.9	+3	0.1	c	750	0.00784803482799556
+1329	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1400	10h	Y	101.9	+3	0.1	c	700	0.00489323399822954
+1330	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1400	10h	Y	101.9	+3	0.1	c	650	0.00246858931163488
+1331	实验室自制	氧化锆，200nm；氧化钇，200nm	固相合成	干压成型	1400	10h	Y	101.9	+3	0.1	c	600	0.000603794442285655
+1332	实验室自制	氧化锆，200nm；氧化镱	固相合成	干压成型	1400	10h	Yb	98.5	+3	0.1	c	800	0.0195672985056548
+1333	实验室自制	氧化锆，200nm；氧化镱	固相合成	干压成型	1400	10h	Yb	98.5	+3	0.1	c	750	0.0127199046039132
+1334	实验室自制	氧化锆，200nm；氧化镱	固相合成	干压成型	1400	10h	Yb	98.5	+3	0.1	c	700	0.0076591997007849
+1335	实验室自制	氧化锆，200nm；氧化镱	固相合成	干压成型	1400	10h	Yb	98.5	+3	0.1	c	650	0.00429258590116047
+1336	实验室自制	氧化锆，200nm；氧化镱	固相合成	干压成型	1400	10h	Yb	98.5	+3	0.1	c	600	0.00216974495772943
+1337	实验室自制	氧化锆，200nm；氧化镱	固相合成	干压成型	1400	10h	Yb	98.5	+3	0.1	c	550	0.000968643141924016
+1338	实验室自制	氧化锆，200nm；氧化镝	固相合成	干压成型	1400	10h	Dy	102.7	+3	0.1	c	800	0.0142175540818209
+1339	实验室自制	氧化锆，200nm；氧化镝	固相合成	干压成型	1400	10h	Dy	102.7	+3	0.1	c	750	0.00864846607742103
+1340	实验室自制	氧化锆，200nm；氧化镝	固相合成	干压成型	1400	10h	Dy	102.7	+3	0.1	c	700	0.00373723957278532
+1341	实验室自制	氧化锆，200nm；氧化镝	固相合成	干压成型	1400	10h	Dy	102.7	+3	0.1	c	650	0.00238162073451823
+1342	实验室自制	氧化锆，200nm；氧化镝	固相合成	干压成型	1400	10h	Dy	102.7	+3	0.1	c	600	0.00117711716838827
+1343	实验室自制	氧化锆，200nm；氧化镝	固相合成	干压成型	1400	10h	Dy	102.7	+3	0.1	c	550	0.00050928551934881
+1344	实验室自制	氧化锆，200nm；氧化镝	固相合成	干压成型	1400	10h	Dy	102.7	+3	0.1	c	900	0.134748495186399
+1345	实验室自制	氧化锆，200nm；氧化钪	固相合成	干压成型	1400	10h	Dy	102.7	+3	0.1	c	850	0.10325835772436
+1346	实验室自制	氧化锆，200nm；氧化钪	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	800	0.0753949913542946
+1347	实验室自制	氧化锆，200nm；氧化钪	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	750	0.05162917886218
+1348	实验室自制	氧化锆，200nm；氧化钪	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	700	0.0326452539884574
+1349	实验室自制	氧化锆，200nm；氧化钪	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	650	0.018572373236835
+1350	实验室自制	氧化锆，200nm；氧化钪	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	600	0.00546749289821071
+1351	实验室自制	氧化锆，200nm；氧化钪	固相合成	干压成型	1400	10h	Sc	87	+3	0.1	c	550	0.00189238424514763
