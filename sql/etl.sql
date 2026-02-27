@@ -1,19 +1,19 @@
 USE zirconia_conductivity;
 
--- 为了防止脏数据报错，先清空目标表
+-- Clear target tables first to prevent dirty data errors
 
 INSERT INTO material_samples (sample_id, reference, material_source_and_purity, synthesis_method, processing_route, operating_temperature, conductivity)
 SELECT
     sample_id,
     reference,
     material_source_and_purity,
-    -- 清洗制备方法：'/' 转为 NULL
+    -- Clean synthesis method: convert '/' to NULL
     NULLIF(TRIM(synthesis_method), '/') AS synthesis_method,
-    -- 清洗工艺路线：'/' 转为 NULL
+    -- Clean processing route: convert '/' to NULL
     NULLIF(TRIM(processing_route), '/') AS processing_route,
-    -- 清洗工作温度：提取数字
+    -- Clean operating temperature: extract numeric value
     CAST(REGEXP_SUBSTR(operating_temperature, '[0-9.]+') AS FLOAT) AS operating_temperature,
-    -- 【核心清洗】电导率：去空格 -> 替换中文'×'为'E' -> 替换'*'为'E' -> 转双精度
+    -- [Core cleaning] Conductivity: remove spaces -> replace Chinese 'x' with 'E' -> replace '*' with 'E' -> cast to double
     CAST(
             REPLACE(
                     REPLACE(
@@ -24,23 +24,23 @@ SELECT
 FROM
     raw_conductivity_samples;
 
-SELECT CONCAT('主表加载完成，共 ', COUNT(*), ' 条数据') AS Result FROM material_samples;
+SELECT CONCAT('Main table loaded, total ', COUNT(*), ' records') AS Result FROM material_samples;
 
 INSERT INTO sample_dopants (sample_id, dopant_element, dopant_ionic_radius, dopant_valence, dopant_molar_fraction)
 SELECT
     sample_id,
     elt AS dopant_element,
-    NULLIF(rad, '/') AS dopant_ionic_radius, -- 处理空值
-    -- 处理价态：去掉'+'，处理'或'的情况(这里简化取第一个值，如需复杂逻辑可调整)
+    NULLIF(rad, '/') AS dopant_ionic_radius, -- Handle null values
+    -- Handle valence: remove '+', handle 'or' cases (simplified to take the first value; adjust for more complex logic if needed)
     CAST(SUBSTRING_INDEX(REPLACE(val, '或', '/'), '/', 1) AS DECIMAL(10,2)) AS dopant_valence,
-    -- 处理比例：去掉'%'，如果是百分数则除以100，如果是小数则保留
+    -- Handle fraction: remove '%', divide by 100 if percentage, keep as-is if decimal
     CASE
         WHEN frac LIKE '%\%%' THEN CAST(REPLACE(frac, '%', '') AS DECIMAL(10,4)) / 100
         WHEN frac = '/' THEN NULL
         ELSE CAST(frac AS DECIMAL(10,4))
         END AS dopant_molar_fraction
 FROM (
-         -- 使用 UNION ALL 模拟遍历，提取第 1 到第 5 个位置的掺杂元素
+         -- Use UNION ALL to simulate iteration, extracting dopant elements at positions 1 through 5
          SELECT
              sample_id,
              TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(dopant_element, '/', n), '/', -1)) AS elt,
@@ -48,7 +48,7 @@ FROM (
              TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(dopant_valence, '/', n), '/', -1)) AS val,
              TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(dopant_molar_fraction, '/', n), '/', -1)) AS frac,
              n,
-             -- 计算该行实际有多少个掺杂元素 (通过计算 '/' 的数量 + 1)
+             -- Calculate the actual number of dopant elements per row (by counting '/' occurrences + 1)
              LENGTH(dopant_element) - LENGTH(REPLACE(dopant_element, '/', '')) + 1 AS total_dopants
          FROM raw_conductivity_samples
                   CROSS JOIN (
@@ -56,9 +56,9 @@ FROM (
          ) numbers
          WHERE dopant_element IS NOT NULL AND dopant_element != '/'
      ) AS extracted
-WHERE n <= total_dopants; -- 只保留有效的层级
+WHERE n <= total_dopants; -- Only keep valid levels
 
-SELECT CONCAT('掺杂表加载完成，共 ', COUNT(*), ' 条数据') AS Result FROM sample_dopants;
+SELECT CONCAT('Dopant table loaded, total ', COUNT(*), ' records') AS Result FROM sample_dopants;
 
 
 
@@ -67,47 +67,47 @@ INSERT INTO sintering_steps (sample_id, step_order, sintering_temperature, sinte
 SELECT
     sample_id,
     n AS step_order,
-    -- 提取温度
+    -- Extract temperature
     CAST(NULLIF(temp_str, '/') AS FLOAT) AS sintering_temperature,
-    -- 【核心清洗】时间换算逻辑
+    -- [Core cleaning] Duration conversion logic
     CASE
         WHEN dur_str LIKE '%h%' THEN CAST(REPLACE(dur_str, 'h', '') AS DECIMAL(10,2)) * 60
         WHEN dur_str LIKE '%min%' THEN CAST(REPLACE(dur_str, 'min', '') AS DECIMAL(10,2))
         WHEN dur_str = '/' THEN NULL
         WHEN dur_str = '' THEN NULL
-        ELSE CAST(dur_str AS DECIMAL(10,2)) -- 默认为分钟
+        ELSE CAST(dur_str AS DECIMAL(10,2)) -- Default unit is minutes
         END AS sintering_duration
 FROM (
          SELECT
              sample_id,
              n,
-             -- 根据逗号 ',' 或斜杠 '/' 拆分温度 (有些数据可能混用，这里主要针对逗号)
+             -- Split temperature by comma ',' or slash '/' (some data may mix both; here mainly targeting commas)
              TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(sintering_temperature, ',', n), ',', -1)) AS temp_str,
-             -- 根据逗号 ',' 拆分时间
+             -- Split duration by comma ','
              TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(sintering_duration, ',', n), ',', -1)) AS dur_str,
-             -- 计算总步骤数
+             -- Calculate total number of steps
              LENGTH(sintering_temperature) - LENGTH(REPLACE(sintering_temperature, ',', '')) + 1 AS total_steps
          FROM raw_conductivity_samples
                   CROSS JOIN (
-             SELECT 1 AS n UNION ALL SELECT 2 UNION ALL SELECT 3 -- 假设最多3步烧结
+             SELECT 1 AS n UNION ALL SELECT 2 UNION ALL SELECT 3 -- Assume at most 3 sintering steps
          ) numbers
          WHERE sintering_temperature != '/' AND sintering_temperature IS NOT NULL
      ) AS steps
 WHERE n <= total_steps;
 
-SELECT CONCAT('烧结步骤表加载完成，共 ', COUNT(*), ' 条数据') AS Result FROM sintering_steps;
+SELECT CONCAT('Sintering steps table loaded, total ', COUNT(*), ' records') AS Result FROM sintering_steps;
 
 
 INSERT INTO sample_crystal_phases (sample_id, crystal_id, is_major_phase)
 SELECT
     r.sample_id,
     d.id AS crystal_id,
-    -- 简单的逻辑：如果只包含一种晶型，或者是第一个出现的，则为主相 (需根据实际业务调整)
+    -- Simple logic: if only one crystal phase, or the first one found, treat as major phase (adjust based on actual business rules)
     CASE WHEN n = 1 THEN TRUE ELSE FALSE END AS is_major_phase
 FROM (
          SELECT
              sample_id,
-             -- 将 '+' 统一替换为 '/' 以便统一分割
+             -- Replace '+' with '/' for uniform splitting
              TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(REPLACE(crystal_phase, '+', '/'), '/', n), '/', -1)) AS phase_code,
              n,
              LENGTH(REPLACE(crystal_phase, '+', '/')) - LENGTH(REPLACE(REPLACE(crystal_phase, '+', '/'), '/', '')) + 1 AS total_phases
@@ -129,10 +129,10 @@ SET
     ms.processing_route = ttr.processing_route;
 
 
-SELECT CONCAT('晶型关联表加载完成，共 ', COUNT(*), ' 条数据') AS Result FROM sample_crystal_phases;
+SELECT CONCAT('Crystal phase association table loaded, total ', COUNT(*), ' records') AS Result FROM sample_crystal_phases;
 
--- 验证样本 193 的烧结步骤拆分
+-- Verify sintering step splitting for sample 193
 SELECT * FROM sintering_steps WHERE sample_id = 193 ORDER BY step_order;
 
--- 验证样本 8 (复杂掺杂 Y/Fe/Zn) 的拆分
+-- Verify splitting for sample 8 (complex dopants Y/Fe/Zn)
 SELECT * FROM sample_dopants WHERE sample_id = 8;
