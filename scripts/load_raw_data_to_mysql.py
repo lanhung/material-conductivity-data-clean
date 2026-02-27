@@ -22,13 +22,13 @@ def load_raw_data_to_mysql():
     file_name = "sample_data.xlsx"
     data_file = os.path.join(data_dir, file_name)
 
-    # --- 核心修改：dtype=str ---
-    # 强制所有列都作为字符串读取。
-    # keep_default_na=False 的作用是：Excel里的空单元格会被读成空字符串 ""，
-    # 而不是 NaN。这样就是纯粹的文本，连 NULL 都不用处理。
+    # --- Key change: dtype=str ---
+    # Force all columns to be read as strings.
+    # keep_default_na=False means empty Excel cells are read as empty strings "",
+    # not NaN. This keeps everything as plain text, so you don't need to handle NULLs.
     df = pd.read_excel(data_file, dtype=str, keep_default_na=False)
 
-    # 2. 列名映射
+    # 2. Column name mapping
     rename_map = {
         "序号": "sample_id",
         "文献来源": "reference",
@@ -48,7 +48,7 @@ def load_raw_data_to_mysql():
 
     df = df.rename(columns=rename_map)
 
-    # 3. 筛选列
+    # 3. Select columns
     columns_in_table = [
         "sample_id", "reference", "material_source_and_purity", "synthesis_method",
         "processing_route", "sintering_temperature", "sintering_duration",
@@ -57,24 +57,25 @@ def load_raw_data_to_mysql():
     ]
     df = df[columns_in_table]
 
-    # 4. 建立连接
+    # 4. Create connection
     engine = create_engine(
         f"mysql+pymysql://{user}:{password}@{host}:{port}/{database}?charset=utf8mb4"
     )
 
-    # 5. 写入数据库
-    # 这里的 dtype 参数是告诉数据库：所有列都给我建成 Text 类型（长文本），
-    # 哪怕里面看起来是数字，也当作文本存。
-    # 注意：如果表已经存在且包含 int/float 列，追加可能会报错，建议删表重建。
+    # 5. Write to database
+    # The dtype argument tells the DB to create all columns as Text (long text),
+    # even if they look numeric, and store them as text.
+    # Note: if the table already exists and has int/float columns, appending may fail;
+    # it's recommended to drop and recreate the table.
     df.to_sql(
         "raw_conductivity_samples",
         con=engine,
-        if_exists="replace",  # 建议用 replace 重新建表，确保数据库字段也是 Text
+        if_exists="replace",  # Recommended: use replace to recreate the table so columns are Text
         index=False,
-        dtype={col: Text for col in df.columns}  # 强制所有列在 MySQL 中都创建为 TEXT 类型
+        dtype={col: Text for col in df.columns}  # Force all columns to be created as TEXT in MySQL
     )
 
-    print("所有数据已作为【纯文本】插入数据库")
+    print("All data has been inserted into the database as plain text.")
 
 
 if __name__ == '__main__':

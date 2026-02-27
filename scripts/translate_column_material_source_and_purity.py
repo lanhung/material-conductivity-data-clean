@@ -2,40 +2,40 @@ import os
 import pandas as pd
 from tqdm import tqdm
 from sqlalchemy import create_engine
-from dotenv import load_dotenv  # 导入 dotenv
+from dotenv import load_dotenv  # Load environment variables from .env
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 
 # =========================
-# 0. 加载配置信息
+# 0. Load configuration
 # =========================
-# 加载 .env 文件
+# Load the .env file
 load_dotenv()
 
-# 读取 OpenAI API Key
+# Read OpenAI API key
 API_KEY = os.getenv("OPENAI_API_KEY")
 if not API_KEY:
-    raise ValueError("请在 .env 文件中配置 OPENAI_API_KEY")
+    raise ValueError("Please configure OPENAI_API_KEY in your .env file.")
 model_name=os.getenv("MODEL_NAME")
 
-# 读取数据库配置 (您提供的代码)
+# Read database config (from your provided code)
 user = os.getenv("DB_USER")
 password = os.getenv("DB_PASSWORD")
 host = os.getenv("DB_HOST", "127.0.0.1")
 port = int(os.getenv("DB_PORT", "3306"))
 database = os.getenv("DB_NAME")
 
-# 拼接 SQLAlchemy 连接字符串
-# 格式: mysql+pymysql://user:password@host:port/database
+# Build SQLAlchemy connection string
+# Format: mysql+pymysql://user:password@host:port/database
 DB_CONNECTION_STR = f"mysql+pymysql://{user}:{password}@{host}:{port}/{database}"
 
 # =========================
-# 1. 连接数据库 & 读取数据
+# 1. Connect to DB & read data
 # =========================
 print(f"Connecting to database '{database}' at {host}...")
 engine = create_engine(DB_CONNECTION_STR)
 
-# 读取源数据
+# Read source data
 read_sql = """
            SELECT sample_id, material_source_and_purity
            FROM raw_conductivity_samples \
@@ -48,7 +48,7 @@ except Exception as e:
     exit(1)
 
 # =========================
-# 2. 定义 Prompt (只做翻译)
+# 2. Define prompt (translation only)
 # =========================
 TRANSLATION_PROMPT = """You are a materials science data normalization assistant.
 
@@ -85,14 +85,14 @@ prompt = PromptTemplate(
 # =========================
 llm = ChatOpenAI(
     api_key=API_KEY,
-    model=model_name, # 建议使用最新模型
+    model=model_name, # Recommended: use the latest model
     temperature=0.0
 )
 
 chain = prompt | llm
 
 # =========================
-# 4. 批量处理
+# 4. Batch processing
 # =========================
 results = []
 
@@ -101,7 +101,7 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
     text_input = str(row['material_source_and_purity']).strip()
     sample_id = row['sample_id']
 
-    # 结果字典：synthesis_method 和 processing_route 设为 None (NULL)
+    # Result dict: set synthesis_method and processing_route to None (NULL)
     row_result = {
         "sample_id": sample_id,
         "material_source_and_purity": "",
@@ -109,13 +109,13 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
         "processing_route": None
     }
 
-    # 空值检查
+    # Empty-value check
     if not text_input or text_input.lower() == 'nan':
         results.append(row_result)
         continue
 
     try:
-        # 执行翻译
+        # Run translation
         response = chain.invoke({"input_text": text_input})
         translation = response.content.strip()
 
@@ -124,17 +124,17 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0]):
 
     except Exception as e:
         print(f"Error processing ID {sample_id}: {e}")
-        # 出错保留原文，防止中断
+        # On error, keep the original text to avoid aborting the run
         row_result["material_source_and_purity"] = text_input
         results.append(row_result)
 
 # =========================
-# 5. 写入数据库
+# 5. Write to database
 # =========================
 if results:
     result_df = pd.DataFrame(results)
 
-    # 确保列顺序
+    # Ensure column order
     cols = ["sample_id", "material_source_and_purity", "synthesis_method", "processing_route"]
     result_df = result_df[cols]
 
@@ -146,7 +146,7 @@ if results:
             con=engine,
             if_exists='append',
             index=False,
-            chunksize=1000 # 如果数据量大，分批写入更安全
+            chunksize=1000 # If the dataset is large, writing in chunks is safer
         )
         print("Done! Check table 'tmp_translate_result'.")
     except Exception as e:
